@@ -45,6 +45,7 @@ Campus-Placement-Analytics/
 ├── Data/
 │   ├── Engineering_Placement_Dataset.csv
 │   └── Engineering_Placement_Dataset.xlsx
+│   └── Engineering_Placement_Final.csv   
 │
 ├── SQL/
 │   ├── 01_Placement_Insights.sql
@@ -99,7 +100,7 @@ Campus-Placement-Analytics/
 
 # 🗄️ SQL Analysis
 
-Performed **30+ SQL queries** to analyze:
+Performed **25+ SQL queries** to analyze:
 
 - Placement Statistics
 - Branch-wise Placements
@@ -182,16 +183,9 @@ Designed an interactive dashboard featuring:
 > **Add your dashboard screenshot here**
 
 ```
-Images/dashboard.png
+Images/Campus_Placement_Analytics_Dashboard.png
 ```
 
-Example:
-
-```markdown
-![Dashboard](Images/dashboard.png)
-```
-
----
 
 # 📌 Key Insights
 
@@ -236,8 +230,8 @@ Electrical Engineering Undergraduate | NIT Patna
 
 Aspiring Data Analyst
 
-- GitHub: *Add your GitHub profile link*
-- LinkedIn: *Add your LinkedIn profile link*
+- GitHub: *https://github.com/Akanksha265*
+- LinkedIn: *https://www.linkedin.com/in/akanksha-kumari-1a0222289*
 
 ---
 
