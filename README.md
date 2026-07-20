@@ -59,12 +59,10 @@ Campus-Placement-Analytics/
 │
 ├── PowerBI/
 │   ├── Campus_Placement_Analytics.pbix
-│   └── Dashboard.png
-│
-├── Images/
+│   └── Campus_Placement_Analytics_Dashboard.png
 │
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
