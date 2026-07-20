@@ -1,0 +1,1001 @@
+Student_ID,Gender,Branch,Graduation_Year,Class_10_Percentage,Class_12_Percentage,CGPA,Active_Backlogs,Internship,Projects,Certifications,Placement_Status,Company,Job_Role,Package_LPA,Placement_Type,Placement_Season,Location
+ENG0001,Female,Computer Science & Engineering,2025,90.45,95.53,8.55,1,No,0,1,Placed,Accenture,Data Analyst,7.83,On-Campus,December,Bengaluru
+ENG0002,Male,Electronics & Communication Engineering,2023,75.96,79.74,6.44,1,Yes,1,2,Placed,EXL,Business Analyst,12.41,On-Campus,October,Kolkata
+ENG0003,Female,Computer Science & Engineering,2025,60.08,66.52,5.5,2,No,2,0,Not Placed,,,0.0,,,
+ENG0004,Female,Computer Science & Engineering,2024,67.86,79.3,6.86,1,Yes,2,0,Placed,Accenture,Business Analyst,7.46,On-Campus,December,Bengaluru
+ENG0005,Male,Electrical Engineering,2021,93.37,93.32,7.67,1,No,2,0,Not Placed,,,0.0,,,
+ENG0006,Female,Electronics & Communication Engineering,2025,78.79,79.57,7.56,0,Yes,4,2,Placed,Tiger Analytics,Business Analyst,14.49,On-Campus,February,Hyderabad
+ENG0007,Female,Architecture,2023,75.99,87.36,7.51,2,Yes,2,0,Not Placed,,,0.0,,,
+ENG0008,Female,Information Technology,2021,95.14,92.16,7.6,1,Yes,3,2,Placed,Atlassian,Data Engineer,26.51,On-Campus,September,Delhi NCR
+ENG0009,Male,Mechanical Engineering,2022,92.12,86.96,6.94,0,No,5,1,Not Placed,,,0.0,,,
+ENG0010,Male,Electronics & Communication Engineering,2024,82.2,75.78,6.99,1,Yes,4,3,Placed,Cognizant,Software Engineer,5.99,On-Campus,November,Delhi NCR
+ENG0011,Male,Mechanical Engineering,2021,79.65,84.66,6.21,0,No,2,1,Placed,Tata Power,Mechanical Engineer,8.83,Off-Campus,February,Chennai
+ENG0012,Female,Electrical Engineering,2022,80.94,89.37,8.23,0,No,2,2,Placed,Google,Software Engineer,26.23,On-Campus,September,Delhi NCR
+ENG0013,Female,Electronics & Communication Engineering,2021,83.82,82.51,7.58,0,Yes,3,3,Placed,Capgemini,Business Analyst,6.55,On-Campus,November,Ahmedabad
+ENG0014,Female,Chemical Engineering,2023,94.8,98.0,9.42,0,Yes,3,1,Placed,ONGC,Graduate Engineer Trainee,9.2,On-Campus,February,Mumbai
+ENG0015,Male,Information Technology,2023,85.38,70.24,6.32,0,Yes,2,1,Not Placed,,,0.0,,,
+ENG0016,Male,Computer Science & Engineering,2023,87.81,85.47,7.94,1,Yes,0,1,Not Placed,,,0.0,,,
+ENG0017,Male,Mechanical Engineering,2022,91.35,88.23,9.29,0,Yes,3,1,Placed,Bosch,Mechanical Engineer,7.3,Pool Campus,March,Hyderabad
+ENG0018,Male,Civil Engineering,2021,72.64,69.39,6.13,1,No,1,1,Not Placed,,,0.0,,,
+ENG0019,Female,Computer Science & Engineering,2024,88.04,98.0,8.37,0,Yes,0,1,Placed,Adobe,Data Engineer,30.41,On-Campus,August,Coimbatore
+ENG0020,Female,Electronics & Communication Engineering,2023,79.64,79.27,6.47,2,No,0,0,Not Placed,,,0.0,,,
+ENG0021,Female,Architecture,2024,61.87,63.55,5.32,2,No,1,0,Not Placed,,,0.0,,,
+ENG0022,Male,Mechanical Engineering,2021,64.97,68.91,6.81,1,No,1,0,Placed,L&T,Mechanical Engineer,8.84,On-Campus,February,Coimbatore
+ENG0023,Female,Chemical Engineering,2021,73.86,61.37,6.8,0,No,8,0,Placed,BASF,Graduate Engineer Trainee,8.74,On-Campus,November,Bengaluru
+ENG0024,Female,Electronics & Communication Engineering,2022,86.25,79.37,6.86,0,Yes,2,1,Placed,Deloitte,Business Analyst,10.82,On-Campus,September,Delhi NCR
+ENG0025,Female,Mechanical Engineering,2023,82.91,89.07,7.17,2,No,1,0,Not Placed,,,0.0,,,
+ENG0026,Male,Information Technology,2023,83.47,78.2,6.82,1,Yes,5,5,Placed,TCS,Data Analyst,7.38,On-Campus,January,Kolkata
+ENG0027,Male,Chemical Engineering,2025,97.61,87.4,7.76,2,No,0,0,Not Placed,,,0.0,,,
+ENG0028,Male,Information Technology,2023,71.85,83.05,6.97,0,No,0,3,Placed,Cognizant,Software Engineer,8.1,Off-Campus,October,Noida
+ENG0029,Male,Mechanical Engineering,2023,81.78,90.72,7.76,0,No,3,3,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,12.15,On-Campus,March,Mumbai
+ENG0030,Female,Electronics & Communication Engineering,2024,84.44,86.95,8.37,0,Yes,2,0,Placed,Mu Sigma,Data Analyst,9.24,Off-Campus,January,Hyderabad
+ENG0031,Female,Electrical Engineering,2021,76.11,73.9,6.5,1,No,1,0,Placed,ABB,Electrical Engineer,7.16,Off-Campus,March,Ahmedabad
+ENG0032,Female,Mechanical Engineering,2023,82.23,79.99,7.56,1,No,0,2,Placed,Siemens,Graduate Engineer Trainee,5.5,On-Campus,February,Ahmedabad
+ENG0033,Male,Electronics & Communication Engineering,2023,69.2,66.27,6.67,1,Yes,3,2,Placed,Infosys,Business Analyst,5.7,On-Campus,November,Coimbatore
+ENG0034,Male,Architecture,2023,93.28,83.0,6.94,0,Yes,7,2,Placed,L&T,Architect,7.03,On-Campus,February,Bengaluru
+ENG0035,Male,Electronics & Communication Engineering,2021,76.55,70.1,5.94,0,No,2,1,Not Placed,,,0.0,,,
+ENG0036,Male,Electrical Engineering,2024,98.25,89.36,7.76,0,No,0,2,Placed,Havells,Graduate Engineer Trainee,8.84,Pool Campus,March,Pune
+ENG0037,Male,Information Technology,2025,81.74,74.06,7.44,0,No,3,1,Placed,Cognizant,Data Analyst,7.7,On-Campus,March,Mumbai
+ENG0038,Male,Electronics & Communication Engineering,2021,90.22,76.72,7.02,1,No,0,2,Placed,Schneider Electric,Civil Engineer,8.09,Off-Campus,November,Pune
+ENG0039,Male,Electronics & Communication Engineering,2024,81.57,82.72,6.81,0,No,0,0,Not Placed,,,0.0,,,
+ENG0040,Female,Computer Science & Engineering,2024,81.75,82.96,7.78,0,Yes,1,2,Placed,Google,DevOps Engineer,22.39,On-Campus,September,Mumbai
+ENG0041,Male,Computer Science & Engineering,2022,77.33,89.9,6.66,0,No,0,0,Not Placed,,,0.0,,,
+ENG0042,Female,Mechanical Engineering,2024,82.95,77.54,7.26,2,No,1,0,Not Placed,,,0.0,,,
+ENG0043,Female,Mechanical Engineering,2024,84.54,85.48,7.31,0,No,1,1,Not Placed,,,0.0,,,
+ENG0044,Male,Mechanical Engineering,2025,75.73,78.98,7.04,0,Yes,2,1,Placed,Siemens,Graduate Engineer Trainee,7.41,Pool Campus,January,Ahmedabad
+ENG0045,Female,Computer Science & Engineering,2025,81.0,78.97,7.17,1,Yes,5,1,Placed,Capgemini,Business Analyst,5.05,On-Campus,January,Chennai
+ENG0046,Female,Information Technology,2021,77.12,83.05,7.72,0,Yes,3,1,Placed,TCS,Business Analyst,5.22,Off-Campus,September,Chennai
+ENG0047,Male,Computer Science & Engineering,2023,99.0,98.0,7.69,0,Yes,1,1,Placed,ZS Associates,Data Analyst,15.59,On-Campus,September,Noida
+ENG0048,Male,Mechanical Engineering,2023,81.28,83.25,7.43,0,Yes,3,2,Placed,Ashok Leyland,Graduate Engineer Trainee,10.68,Off-Campus,March,Pune
+ENG0049,Female,Civil Engineering,2021,94.36,88.98,8.45,0,Yes,1,3,Placed,DLF,Graduate Engineer Trainee,7.2,Pool Campus,December,Pune
+ENG0050,Male,Information Technology,2023,80.44,77.82,6.19,0,No,0,0,Not Placed,,,0.0,,,
+ENG0051,Male,Mechanical Engineering,2025,84.07,73.48,7.81,0,Yes,2,4,Placed,Ashok Leyland,Mechanical Engineer,8.83,On-Campus,January,Bengaluru
+ENG0052,Male,Computer Science & Engineering,2021,71.43,67.93,5.0,1,Yes,0,0,Placed,Infosys,Data Analyst,7.12,Off-Campus,November,Hyderabad
+ENG0053,Female,Information Technology,2023,78.42,74.46,7.17,0,Yes,0,1,Placed,Deloitte,Business Analyst,7.95,Pool Campus,August,Pune
+ENG0054,Female,Computer Science & Engineering,2025,83.68,74.9,6.93,0,No,1,0,Placed,Infosys,Software Engineer,5.11,On-Campus,October,Kolkata
+ENG0055,Female,Information Technology,2022,94.69,94.1,8.17,2,Yes,0,2,Not Placed,,,0.0,,,
+ENG0056,Female,Mechanical Engineering,2023,83.78,91.21,7.85,2,Yes,1,3,Not Placed,,,0.0,,,
+ENG0057,Male,Architecture,2025,93.07,83.45,7.64,0,Yes,1,0,Placed,DLF,Architect,11.41,On-Campus,February,Noida
+ENG0058,Male,Computer Science & Engineering,2023,87.13,87.33,6.28,0,No,1,0,Not Placed,,,0.0,,,
+ENG0059,Male,Electrical Engineering,2021,95.02,84.03,7.77,0,Yes,4,1,Placed,PhonePe,Data Analyst,12.81,On-Campus,August,Delhi NCR
+ENG0060,Male,Mechanical Engineering,2021,81.53,79.01,6.95,2,Yes,2,3,Not Placed,,,0.0,,,
+ENG0061,Female,Chemical Engineering,2025,99.0,89.42,7.46,0,No,1,2,Not Placed,,,0.0,,,
+ENG0062,Male,Electrical Engineering,2022,78.12,82.8,7.25,0,Yes,0,1,Placed,Schneider Electric,Graduate Engineer Trainee,7.54,On-Campus,January,Delhi NCR
+ENG0063,Male,Information Technology,2023,75.87,72.15,6.59,0,Yes,2,3,Placed,Accenture,Data Analyst,6.35,On-Campus,October,Mumbai
+ENG0064,Female,Electrical Engineering,2021,72.32,81.32,7.21,1,No,0,1,Not Placed,,,0.0,,,
+ENG0065,Female,Information Technology,2023,99.0,92.53,9.02,0,Yes,6,1,Placed,Cognizant,Business Analyst,8.4,On-Campus,November,Kolkata
+ENG0066,Male,Chemical Engineering,2025,88.56,81.87,7.42,1,Yes,0,4,Placed,BASF,Graduate Engineer Trainee,6.86,Off-Campus,February,Coimbatore
+ENG0067,Male,Electronics & Communication Engineering,2023,79.33,70.72,5.63,1,Yes,3,1,Not Placed,,,0.0,,,
+ENG0068,Male,Mechanical Engineering,2025,91.99,90.77,7.94,1,Yes,3,1,Placed,Siemens,Mechanical Engineer,6.49,On-Campus,December,Pune
+ENG0069,Male,Computer Science & Engineering,2022,87.5,91.89,7.9,0,Yes,1,0,Not Placed,,,0.0,,,
+ENG0070,Male,Electronics & Communication Engineering,2023,97.73,95.21,8.29,0,No,0,0,Placed,Amazon,Software Engineer,20.73,Pool Campus,December,Mumbai
+ENG0071,Male,Civil Engineering,2025,69.62,87.88,8.17,0,Yes,4,1,Placed,Shapoorji Pallonji,Civil Engineer,12.03,On-Campus,February,Ahmedabad
+ENG0072,Male,Electrical Engineering,2023,79.88,89.92,6.97,0,No,1,2,Not Placed,,,0.0,,,
+ENG0073,Female,Electronics & Communication Engineering,2022,78.3,76.57,6.41,1,No,0,1,Not Placed,,,0.0,,,
+ENG0074,Male,Architecture,2025,66.21,67.43,5.18,1,Yes,2,0,Not Placed,,,0.0,,,
+ENG0075,Male,Civil Engineering,2023,90.48,91.15,7.69,0,Yes,1,2,Placed,DLF,Civil Engineer,11.49,Off-Campus,October,Noida
+ENG0076,Male,Information Technology,2023,79.84,74.01,6.32,0,No,0,1,Placed,Tiger Analytics,Data Analyst,10.79,Off-Campus,October,Delhi NCR
+ENG0077,Male,Electrical Engineering,2025,87.92,94.1,8.5,0,Yes,2,1,Placed,BHEL,Graduate Engineer Trainee,10.61,Pool Campus,January,Pune
+ENG0078,Female,Electronics & Communication Engineering,2022,99.0,96.78,8.19,1,Yes,1,3,Not Placed,,,0.0,,,
+ENG0079,Male,Electrical Engineering,2022,79.17,81.18,6.95,0,Yes,3,0,Not Placed,,,0.0,,,
+ENG0080,Female,Information Technology,2021,78.63,83.78,7.1,0,No,0,1,Not Placed,,,0.0,,,
+ENG0081,Female,Information Technology,2023,82.95,94.27,9.0,0,Yes,1,0,Placed,PhonePe,Business Analyst,17.67,On-Campus,August,Kolkata
+ENG0082,Male,Architecture,2022,89.9,88.62,7.67,0,Yes,1,0,Placed,DLF,Graduate Engineer Trainee,12.41,On-Campus,December,Coimbatore
+ENG0083,Female,Architecture,2024,77.47,77.31,6.46,1,No,1,2,Placed,DLF,Architect,11.83,Off-Campus,January,Chennai
+ENG0084,Male,Civil Engineering,2022,76.95,88.28,7.73,1,No,1,1,Not Placed,,,0.0,,,
+ENG0085,Male,Chemical Engineering,2024,90.46,94.62,7.49,1,No,1,0,Placed,Asian Paints,Graduate Engineer Trainee,10.19,Off-Campus,December,Coimbatore
+ENG0086,Male,Mechanical Engineering,2022,85.03,81.52,7.14,0,No,2,1,Not Placed,,,0.0,,,
+ENG0087,Female,Mechanical Engineering,2023,65.64,69.27,6.74,1,Yes,3,2,Placed,L&T,Graduate Engineer Trainee,12.49,Pool Campus,February,Kolkata
+ENG0088,Male,Mechanical Engineering,2023,72.2,75.52,6.48,0,Yes,1,0,Placed,Ashok Leyland,Graduate Engineer Trainee,8.72,Off-Campus,September,Delhi NCR
+ENG0089,Male,Electronics & Communication Engineering,2024,94.01,93.04,8.03,2,Yes,1,1,Placed,Microsoft,Software Engineer,27.25,On-Campus,October,Noida
+ENG0090,Male,Electronics & Communication Engineering,2023,85.22,74.42,6.55,1,No,1,0,Not Placed,,,0.0,,,
+ENG0091,Male,Information Technology,2023,75.9,66.13,5.92,1,No,0,1,Not Placed,,,0.0,,,
+ENG0092,Female,Electrical Engineering,2025,80.64,74.27,6.11,2,No,3,1,Not Placed,,,0.0,,,
+ENG0093,Male,Information Technology,2024,82.11,74.83,5.8,0,No,1,0,Not Placed,,,0.0,,,
+ENG0094,Male,Information Technology,2022,87.89,81.41,7.27,0,No,1,1,Placed,Capgemini,Software Engineer,4.62,Off-Campus,November,Mumbai
+ENG0095,Male,Electrical Engineering,2025,71.13,77.79,6.72,2,Yes,7,0,Not Placed,,,0.0,,,
+ENG0096,Female,Electronics & Communication Engineering,2023,75.27,75.27,7.51,2,Yes,3,5,Not Placed,,,0.0,,,
+ENG0097,Male,Computer Science & Engineering,2021,84.18,84.51,5.9,0,No,1,0,Not Placed,,,0.0,,,
+ENG0098,Male,Civil Engineering,2023,81.2,72.33,7.27,0,Yes,3,4,Placed,L&T,Civil Engineer,9.74,On-Campus,December,Pune
+ENG0099,Male,Civil Engineering,2021,86.57,81.7,8.25,0,Yes,3,0,Placed,Tata Projects,Graduate Engineer Trainee,6.35,On-Campus,February,Delhi NCR
+ENG0100,Female,Computer Science & Engineering,2022,72.16,78.23,8.13,0,Yes,3,2,Placed,ZS Associates,Data Analyst,14.66,On-Campus,August,Coimbatore
+ENG0101,Female,Computer Science & Engineering,2024,84.86,87.81,7.87,0,Yes,3,2,Placed,EXL,Data Analyst,9.69,On-Campus,September,Bengaluru
+ENG0102,Female,Information Technology,2021,90.73,82.98,7.76,1,Yes,0,4,Placed,Capgemini,Software Engineer,8.13,On-Campus,January,Pune
+ENG0103,Male,Civil Engineering,2025,85.89,85.55,6.71,2,No,0,2,Not Placed,,,0.0,,,
+ENG0104,Female,Civil Engineering,2025,83.11,97.73,8.69,0,Yes,2,1,Placed,Tata Projects,Graduate Engineer Trainee,8.4,On-Campus,December,Noida
+ENG0105,Female,Computer Science & Engineering,2024,81.23,80.8,7.09,2,No,2,1,Not Placed,,,0.0,,,
+ENG0106,Female,Mechanical Engineering,2024,75.32,71.64,5.55,2,No,1,0,Not Placed,,,0.0,,,
+ENG0107,Male,Computer Science & Engineering,2024,81.42,79.85,6.94,1,No,0,1,Not Placed,,,0.0,,,
+ENG0108,Male,Electronics & Communication Engineering,2025,92.08,89.7,8.64,0,Yes,2,3,Placed,Fractal,Business Analyst,15.36,On-Campus,August,Chennai
+ENG0109,Male,Chemical Engineering,2023,81.05,79.73,6.78,0,No,0,1,Not Placed,,,0.0,,,
+ENG0110,Female,Computer Science & Engineering,2022,74.88,75.94,6.59,3,No,3,1,Not Placed,,,0.0,,,
+ENG0111,Male,Computer Science & Engineering,2023,78.06,68.44,5.06,1,No,1,0,Not Placed,,,0.0,,,
+ENG0112,Male,Electronics & Communication Engineering,2023,83.61,75.97,6.21,0,No,0,1,Not Placed,,,0.0,,,
+ENG0113,Male,Electrical Engineering,2022,79.01,78.21,7.65,0,Yes,0,1,Not Placed,,,0.0,,,
+ENG0114,Male,Architecture,2024,85.88,83.25,8.14,1,Yes,4,0,Placed,DLF,Graduate Engineer Trainee,7.11,Pool Campus,January,Ahmedabad
+ENG0115,Male,Chemical Engineering,2021,86.18,80.67,6.58,2,No,3,1,Not Placed,,,0.0,,,
+ENG0116,Female,Computer Science & Engineering,2025,89.11,85.59,7.88,0,Yes,2,2,Not Placed,,,0.0,,,
+ENG0117,Female,Computer Science & Engineering,2022,93.39,90.47,8.35,1,Yes,3,2,Placed,Wipro,Software Engineer,4.94,On-Campus,December,Pune
+ENG0118,Female,Civil Engineering,2021,89.97,93.7,8.12,0,Yes,2,2,Placed,Shapoorji Pallonji,Civil Engineer,6.16,Off-Campus,February,Noida
+ENG0119,Male,Information Technology,2021,74.53,75.2,6.76,2,Yes,0,2,Not Placed,,,0.0,,,
+ENG0120,Female,Architecture,2022,74.77,78.87,7.18,0,Yes,2,3,Not Placed,,,0.0,,,
+ENG0121,Male,Mechanical Engineering,2022,81.39,77.25,7.35,0,Yes,2,1,Placed,Tata Motors,Mechanical Engineer,11.91,Off-Campus,November,Kolkata
+ENG0122,Female,Computer Science & Engineering,2021,78.39,82.8,7.37,0,Yes,3,2,Placed,Wipro,Software Engineer,7.38,On-Campus,October,Bengaluru
+ENG0123,Male,Civil Engineering,2022,72.89,77.3,7.21,1,No,2,0,Not Placed,,,0.0,,,
+ENG0124,Male,Computer Science & Engineering,2022,78.47,84.91,7.23,0,Yes,1,2,Placed,Fractal,Data Engineer,14.38,Off-Campus,November,Bengaluru
+ENG0125,Male,Electronics & Communication Engineering,2023,78.2,83.65,6.91,0,No,0,0,Placed,Siemens,Graduate Engineer Trainee,10.07,On-Campus,January,Ahmedabad
+ENG0126,Male,Electrical Engineering,2023,76.63,81.59,7.25,0,No,6,3,Placed,Tata Power,Graduate Engineer Trainee,7.35,On-Campus,November,Delhi NCR
+ENG0127,Male,Electronics & Communication Engineering,2023,79.47,78.92,7.51,0,No,1,3,Placed,Cognizant,Software Engineer,7.68,On-Campus,November,Chennai
+ENG0128,Male,Mechanical Engineering,2022,91.43,90.29,7.28,1,No,0,1,Not Placed,,,0.0,,,
+ENG0129,Male,Mechanical Engineering,2021,83.59,90.14,7.98,0,Yes,1,1,Placed,Siemens,Graduate Engineer Trainee,9.98,On-Campus,October,Noida
+ENG0130,Male,Chemical Engineering,2021,99.0,89.69,7.51,2,Yes,1,1,Not Placed,,,0.0,,,
+ENG0131,Male,Chemical Engineering,2022,83.36,78.12,7.13,0,No,1,1,Placed,EXL,Data Analyst,9.94,On-Campus,September,Kolkata
+ENG0132,Female,Electronics & Communication Engineering,2024,79.68,81.03,7.7,0,No,1,1,Placed,Accenture,Data Analyst,6.62,Off-Campus,March,Hyderabad
+ENG0133,Male,Computer Science & Engineering,2025,82.03,84.43,7.8,0,Yes,3,0,Not Placed,,,0.0,,,
+ENG0134,Male,Mechanical Engineering,2025,84.05,77.27,6.26,1,No,0,0,Not Placed,,,0.0,,,
+ENG0135,Male,Chemical Engineering,2023,85.48,83.59,8.1,0,Yes,3,1,Placed,BASF,Graduate Engineer Trainee,8.84,On-Campus,February,Kolkata
+ENG0136,Male,Information Technology,2023,98.61,93.3,7.45,0,No,1,1,Not Placed,,,0.0,,,
+ENG0137,Female,Electronics & Communication Engineering,2022,75.24,60.92,6.01,1,No,1,0,Not Placed,,,0.0,,,
+ENG0138,Male,Electronics & Communication Engineering,2024,88.87,85.12,6.97,0,No,0,2,Placed,Accenture,Data Analyst,6.37,On-Campus,August,Bengaluru
+ENG0139,Female,Computer Science & Engineering,2024,83.66,81.65,6.82,0,Yes,2,2,Placed,Microsoft,Software Engineer,20.29,Pool Campus,August,Mumbai
+ENG0140,Male,Mechanical Engineering,2025,69.43,70.95,7.67,0,Yes,3,2,Placed,Bosch,Graduate Engineer Trainee,8.62,On-Campus,March,Chennai
+ENG0141,Male,Information Technology,2025,88.17,96.04,8.33,1,Yes,1,1,Placed,TCS,Business Analyst,5.35,Off-Campus,December,Pune
+ENG0142,Male,Civil Engineering,2023,92.14,80.6,7.82,0,No,2,1,Placed,Tata Projects,Civil Engineer,10.59,On-Campus,March,Mumbai
+ENG0143,Female,Civil Engineering,2024,75.14,70.58,5.61,0,No,1,2,Not Placed,,,0.0,,,
+ENG0144,Male,Civil Engineering,2025,81.93,63.16,6.87,1,No,5,2,Not Placed,,,0.0,,,
+ENG0145,Male,Electronics & Communication Engineering,2022,68.2,67.78,6.02,0,No,5,2,Not Placed,,,0.0,,,
+ENG0146,Male,Information Technology,2025,71.93,71.18,7.64,0,Yes,0,3,Placed,TCS,QA Engineer,5.03,On-Campus,October,Mumbai
+ENG0147,Male,Mechanical Engineering,2021,90.38,84.22,6.68,1,No,2,1,Not Placed,,,0.0,,,
+ENG0148,Male,Civil Engineering,2025,78.27,86.46,6.93,0,No,0,0,Placed,DLF,Civil Engineer,8.58,Off-Campus,January,Hyderabad
+ENG0149,Male,Electronics & Communication Engineering,2024,73.13,80.87,6.19,1,No,2,2,Not Placed,,,0.0,,,
+ENG0150,Male,Architecture,2021,83.84,83.42,7.61,0,No,2,0,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,8.7,On-Campus,January,Noida
+ENG0151,Female,Computer Science & Engineering,2024,77.82,75.77,6.39,1,No,0,0,Placed,Cognizant,QA Engineer,7.68,Pool Campus,March,Chennai
+ENG0152,Female,Civil Engineering,2021,78.23,85.86,7.56,0,Yes,3,2,Placed,Shapoorji Pallonji,Civil Engineer,9.97,On-Campus,November,Kolkata
+ENG0153,Male,Computer Science & Engineering,2024,87.91,85.8,7.72,0,Yes,0,2,Placed,Cognizant,Business Analyst,5.78,On-Campus,December,Ahmedabad
+ENG0154,Male,Computer Science & Engineering,2024,72.71,68.8,6.2,0,No,1,1,Not Placed,,,0.0,,,
+ENG0155,Male,Electronics & Communication Engineering,2024,74.76,64.05,5.94,0,No,4,0,Not Placed,,,0.0,,,
+ENG0156,Female,Computer Science & Engineering,2025,83.23,79.34,7.13,0,No,2,0,Placed,Capgemini,QA Engineer,4.6,On-Campus,March,Mumbai
+ENG0157,Male,Computer Science & Engineering,2021,89.76,92.6,8.78,0,Yes,2,2,Placed,Google,DevOps Engineer,31.93,On-Campus,August,Bengaluru
+ENG0158,Female,Computer Science & Engineering,2022,91.91,98.0,8.71,0,Yes,4,1,Placed,PhonePe,Data Analyst,14.01,Off-Campus,September,Mumbai
+ENG0159,Female,Electronics & Communication Engineering,2023,76.68,77.94,6.8,0,Yes,3,1,Placed,Wipro,Software Engineer,5.82,On-Campus,November,Delhi NCR
+ENG0160,Female,Mechanical Engineering,2021,89.5,81.77,6.6,0,No,1,0,Placed,L&T,Mechanical Engineer,6.93,On-Campus,January,Chennai
+ENG0161,Male,Computer Science & Engineering,2023,75.73,68.5,6.17,1,No,1,0,Placed,Capgemini,Data Analyst,4.63,Pool Campus,February,Mumbai
+ENG0162,Female,Mechanical Engineering,2022,96.61,96.32,8.77,0,Yes,5,3,Placed,Ashok Leyland,Mechanical Engineer,11.51,Off-Campus,November,Delhi NCR
+ENG0163,Male,Civil Engineering,2023,72.93,62.35,6.14,1,No,2,3,Not Placed,,,0.0,,,
+ENG0164,Male,Computer Science & Engineering,2023,92.63,93.32,8.99,0,Yes,4,6,Placed,Fractal,Data Analyst,15.76,Off-Campus,October,Noida
+ENG0165,Male,Computer Science & Engineering,2025,76.75,83.29,8.17,0,Yes,5,2,Placed,Capgemini,DevOps Engineer,7.28,On-Campus,February,Kolkata
+ENG0166,Male,Civil Engineering,2022,98.11,96.63,8.32,1,Yes,2,1,Placed,L&T,Civil Engineer,12.25,On-Campus,February,Delhi NCR
+ENG0167,Female,Civil Engineering,2025,86.73,83.51,6.97,0,No,0,0,Not Placed,,,0.0,,,
+ENG0168,Female,Electronics & Communication Engineering,2023,73.87,79.36,6.63,0,No,2,0,Placed,Infosys,Data Analyst,5.86,On-Campus,October,Mumbai
+ENG0169,Male,Civil Engineering,2022,77.82,79.56,7.63,0,Yes,3,3,Placed,L&T,Civil Engineer,11.76,On-Campus,February,Ahmedabad
+ENG0170,Female,Computer Science & Engineering,2023,88.25,80.74,7.51,2,Yes,0,4,Not Placed,,,0.0,,,
+ENG0171,Male,Electronics & Communication Engineering,2023,90.42,98.0,9.05,1,No,3,2,Placed,Google,QA Engineer,32.1,On-Campus,September,Kolkata
+ENG0172,Male,Mechanical Engineering,2022,81.43,78.61,7.21,1,No,1,2,Not Placed,,,0.0,,,
+ENG0173,Male,Information Technology,2023,82.36,87.2,7.41,0,No,0,1,Placed,Mu Sigma,Data Engineer,12.77,On-Campus,February,Hyderabad
+ENG0174,Female,Mechanical Engineering,2022,88.07,69.12,6.7,0,No,0,0,Placed,Mahindra & Mahindra,Mechanical Engineer,8.04,Off-Campus,March,Bengaluru
+ENG0175,Male,Electronics & Communication Engineering,2023,83.05,91.23,8.69,1,Yes,1,3,Not Placed,,,0.0,,,
+ENG0176,Male,Mechanical Engineering,2024,71.65,84.02,7.82,0,No,1,2,Placed,Siemens,Graduate Engineer Trainee,6.32,On-Campus,February,Delhi NCR
+ENG0177,Male,Electronics & Communication Engineering,2023,75.5,76.83,6.98,0,No,1,1,Placed,Google,QA Engineer,23.02,On-Campus,September,Delhi NCR
+ENG0178,Female,Information Technology,2025,83.88,86.82,7.5,0,No,2,2,Placed,Capgemini,Business Analyst,6.49,On-Campus,October,Mumbai
+ENG0179,Female,Computer Science & Engineering,2022,91.72,92.7,7.93,1,No,2,0,Not Placed,,,0.0,,,
+ENG0180,Female,Computer Science & Engineering,2025,94.93,86.7,7.73,0,Yes,3,3,Placed,PhonePe,Data Analyst,14.31,On-Campus,September,Ahmedabad
+ENG0181,Female,Mechanical Engineering,2024,88.24,90.01,8.03,1,Yes,0,3,Placed,Bosch,Mechanical Engineer,6.14,Pool Campus,January,Chennai
+ENG0182,Female,Computer Science & Engineering,2025,84.3,77.56,7.9,0,Yes,0,0,Placed,Capgemini,Business Analyst,6.77,Pool Campus,March,Kolkata
+ENG0183,Male,Computer Science & Engineering,2025,87.99,81.73,8.09,0,Yes,2,1,Placed,Atlassian,DevOps Engineer,25.22,Off-Campus,September,Noida
+ENG0184,Male,Computer Science & Engineering,2021,76.67,85.39,7.48,0,No,2,1,Placed,Cognizant,Software Engineer,6.31,Off-Campus,November,Bengaluru
+ENG0185,Female,Computer Science & Engineering,2023,80.77,87.4,7.24,0,No,0,0,Placed,Wipro,Data Analyst,5.91,Pool Campus,August,Coimbatore
+ENG0186,Female,Civil Engineering,2022,75.41,71.61,6.09,0,No,1,0,Not Placed,,,0.0,,,
+ENG0187,Male,Electronics & Communication Engineering,2025,72.01,68.87,6.52,0,No,2,2,Not Placed,,,0.0,,,
+ENG0188,Male,Chemical Engineering,2024,84.67,78.98,7.89,1,Yes,2,3,Placed,Asian Paints,Graduate Engineer Trainee,8.61,Pool Campus,November,Mumbai
+ENG0189,Female,Computer Science & Engineering,2022,83.48,87.74,7.46,1,No,1,0,Not Placed,,,0.0,,,
+ENG0190,Male,Mechanical Engineering,2025,87.5,78.63,7.27,0,Yes,2,0,Placed,Bosch,Mechanical Engineer,10.1,On-Campus,January,Kolkata
+ENG0191,Female,Electronics & Communication Engineering,2021,86.37,87.27,7.59,2,Yes,3,0,Not Placed,,,0.0,,,
+ENG0192,Male,Electronics & Communication Engineering,2024,83.94,88.18,7.45,0,Yes,4,0,Placed,EXL,Business Analyst,10.53,On-Campus,October,Hyderabad
+ENG0193,Male,Civil Engineering,2024,86.45,84.22,7.65,0,Yes,3,1,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,8.35,Off-Campus,December,Delhi NCR
+ENG0194,Female,Chemical Engineering,2021,81.66,88.31,8.28,0,Yes,2,4,Placed,Reliance Industries,Graduate Engineer Trainee,11.53,On-Campus,February,Bengaluru
+ENG0195,Male,Civil Engineering,2024,85.3,81.85,8.11,0,Yes,5,4,Placed,L&T,Civil Engineer,8.65,Off-Campus,February,Bengaluru
+ENG0196,Male,Computer Science & Engineering,2025,76.19,75.65,7.44,0,No,0,2,Placed,Capgemini,DevOps Engineer,6.06,On-Campus,February,Kolkata
+ENG0197,Male,Information Technology,2021,84.96,76.88,6.92,1,No,0,0,Not Placed,,,0.0,,,
+ENG0198,Female,Mechanical Engineering,2023,87.35,92.63,7.64,1,Yes,0,2,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,7.85,On-Campus,January,Pune
+ENG0199,Male,Information Technology,2022,76.64,72.12,6.68,2,No,2,1,Not Placed,,,0.0,,,
+ENG0200,Male,Mechanical Engineering,2024,82.41,84.26,7.82,0,Yes,2,1,Placed,Bosch,Graduate Engineer Trainee,9.33,Pool Campus,November,Kolkata
+ENG0201,Female,Electrical Engineering,2021,77.01,77.26,5.86,2,No,0,0,Not Placed,,,0.0,,,
+ENG0202,Female,Electrical Engineering,2025,77.79,70.97,6.54,1,Yes,1,1,Placed,Infosys,Software Engineer,4.65,On-Campus,October,Chennai
+ENG0203,Male,Civil Engineering,2025,73.0,70.49,6.34,0,No,1,1,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,10.66,On-Campus,January,Noida
+ENG0204,Male,Mechanical Engineering,2022,92.13,98.0,8.32,0,Yes,6,1,Placed,Ashok Leyland,Graduate Engineer Trainee,9.32,On-Campus,March,Pune
+ENG0205,Male,Computer Science & Engineering,2022,90.53,89.31,7.34,0,Yes,3,1,Placed,PhonePe,Business Analyst,14.21,On-Campus,October,Mumbai
+ENG0206,Male,Computer Science & Engineering,2024,86.3,77.66,6.71,0,No,0,1,Not Placed,,,0.0,,,
+ENG0207,Male,Electrical Engineering,2024,97.78,95.47,9.03,0,Yes,1,1,Placed,TCS,Software Engineer,6.74,On-Campus,October,Pune
+ENG0208,Female,Electronics & Communication Engineering,2023,80.49,79.34,7.64,1,No,1,2,Not Placed,,,0.0,,,
+ENG0209,Male,Information Technology,2022,99.0,98.0,7.33,1,No,0,0,Not Placed,,,0.0,,,
+ENG0210,Male,Electronics & Communication Engineering,2021,80.18,82.13,7.81,0,Yes,3,3,Not Placed,,,0.0,,,
+ENG0211,Female,Mechanical Engineering,2025,84.04,80.37,7.68,2,Yes,1,1,Placed,Infosys,Software Engineer,4.68,Off-Campus,October,Coimbatore
+ENG0212,Male,Civil Engineering,2023,78.82,89.05,7.42,1,Yes,4,0,Placed,L&T,Graduate Engineer Trainee,12.24,On-Campus,December,Hyderabad
+ENG0213,Male,Electrical Engineering,2025,84.98,70.85,6.41,0,No,2,0,Not Placed,,,0.0,,,
+ENG0214,Female,Electronics & Communication Engineering,2023,88.68,87.17,8.24,0,Yes,1,2,Placed,Siemens,Graduate Engineer Trainee,8.08,On-Campus,January,Kolkata
+ENG0215,Female,Information Technology,2025,81.09,94.78,7.69,0,Yes,2,1,Placed,Infosys,QA Engineer,7.08,On-Campus,August,Coimbatore
+ENG0216,Female,Electronics & Communication Engineering,2021,96.21,91.35,7.29,0,No,2,1,Not Placed,,,0.0,,,
+ENG0217,Male,Information Technology,2021,83.91,70.8,6.38,0,No,1,0,Not Placed,,,0.0,,,
+ENG0218,Male,Electrical Engineering,2025,84.16,80.35,7.72,1,Yes,3,3,Placed,Wipro,Software Engineer,7.59,On-Campus,February,Noida
+ENG0219,Female,Mechanical Engineering,2025,74.73,86.23,7.32,1,Yes,1,0,Placed,Tata Motors,Graduate Engineer Trainee,11.62,Off-Campus,March,Noida
+ENG0220,Male,Computer Science & Engineering,2022,85.35,86.64,7.28,0,Yes,2,0,Placed,Capgemini,Software Engineer,5.16,On-Campus,October,Ahmedabad
+ENG0221,Male,Computer Science & Engineering,2023,80.93,74.82,7.35,0,Yes,1,2,Placed,Capgemini,DevOps Engineer,5.95,Off-Campus,March,Delhi NCR
+ENG0222,Male,Computer Science & Engineering,2023,77.13,73.05,7.6,0,No,6,3,Placed,Mu Sigma,Data Analyst,8.36,Pool Campus,September,Ahmedabad
+ENG0223,Female,Architecture,2023,75.79,72.92,7.01,1,No,2,0,Placed,DLF,Graduate Engineer Trainee,11.86,Off-Campus,December,Bengaluru
+ENG0224,Female,Electrical Engineering,2022,99.0,96.78,7.54,0,Yes,3,1,Placed,Schneider Electric,Graduate Engineer Trainee,11.37,On-Campus,October,Hyderabad
+ENG0225,Male,Computer Science & Engineering,2025,79.89,89.29,7.96,0,Yes,2,1,Placed,Tiger Analytics,Data Analyst,10.26,Off-Campus,September,Delhi NCR
+ENG0226,Female,Architecture,2022,70.34,80.13,6.55,0,Yes,2,0,Not Placed,,,0.0,,,
+ENG0227,Male,Electronics & Communication Engineering,2024,76.41,80.5,6.62,0,No,0,0,Not Placed,,,0.0,,,
+ENG0228,Male,Electronics & Communication Engineering,2021,81.59,71.87,6.67,0,No,3,0,Placed,Capgemini,Data Analyst,6.66,On-Campus,December,Pune
+ENG0229,Female,Architecture,2021,86.37,75.48,5.97,2,No,0,1,Not Placed,,,0.0,,,
+ENG0230,Male,Computer Science & Engineering,2024,86.44,88.56,8.56,0,Yes,3,2,Placed,Cognizant,DevOps Engineer,5.5,On-Campus,October,Delhi NCR
+ENG0231,Male,Computer Science & Engineering,2023,87.41,76.14,6.82,1,No,5,2,Placed,Amazon,DevOps Engineer,24.3,On-Campus,September,Ahmedabad
+ENG0232,Male,Electrical Engineering,2024,76.84,76.05,7.06,1,Yes,2,2,Not Placed,,,0.0,,,
+ENG0233,Female,Computer Science & Engineering,2021,84.72,85.67,7.48,1,No,1,1,Placed,Wipro,Data Analyst,3.8,Off-Campus,September,Noida
+ENG0234,Male,Mechanical Engineering,2025,74.99,68.28,5.72,2,Yes,1,0,Not Placed,,,0.0,,,
+ENG0235,Female,Computer Science & Engineering,2024,77.04,70.61,5.07,0,No,1,0,Not Placed,,,0.0,,,
+ENG0236,Female,Computer Science & Engineering,2025,74.66,75.33,7.28,0,No,0,3,Placed,Accenture,Software Engineer,7.36,On-Campus,December,Kolkata
+ENG0237,Male,Computer Science & Engineering,2021,72.49,77.9,8.77,0,Yes,6,3,Placed,Deloitte,Data Engineer,8.12,On-Campus,December,Hyderabad
+ENG0238,Female,Electronics & Communication Engineering,2022,90.51,95.32,9.1,0,Yes,5,3,Placed,Qualcomm,Electrical Engineer,9.88,On-Campus,March,Ahmedabad
+ENG0239,Male,Computer Science & Engineering,2023,87.51,89.88,7.22,0,No,1,2,Not Placed,,,0.0,,,
+ENG0240,Male,Computer Science & Engineering,2023,89.81,87.88,7.46,1,No,0,2,Placed,Infosys,QA Engineer,4.93,On-Campus,October,Noida
+ENG0241,Female,Civil Engineering,2022,82.31,76.51,6.08,1,No,1,1,Not Placed,,,0.0,,,
+ENG0242,Female,Information Technology,2021,88.21,78.66,8.62,0,Yes,8,2,Placed,Google,DevOps Engineer,26.15,On-Campus,November,Hyderabad
+ENG0243,Male,Information Technology,2023,67.91,67.36,6.27,0,Yes,2,2,Placed,Wipro,DevOps Engineer,4.53,On-Campus,January,Chennai
+ENG0244,Male,Computer Science & Engineering,2022,88.9,89.55,8.57,0,Yes,0,3,Placed,PhonePe,Data Engineer,16.35,On-Campus,September,Mumbai
+ENG0245,Male,Information Technology,2023,83.42,84.92,8.19,0,Yes,2,1,Placed,Wipro,DevOps Engineer,5.51,On-Campus,December,Noida
+ENG0246,Female,Information Technology,2022,87.02,70.56,5.0,3,Yes,3,0,Not Placed,,,0.0,,,
+ENG0247,Male,Electrical Engineering,2022,85.04,78.28,6.38,1,No,0,0,Not Placed,,,0.0,,,
+ENG0248,Male,Computer Science & Engineering,2024,74.1,84.01,7.19,1,No,0,0,Placed,Cognizant,QA Engineer,7.52,On-Campus,November,Pune
+ENG0249,Male,Architecture,2023,70.02,73.07,6.94,0,Yes,5,2,Placed,DLF,Graduate Engineer Trainee,12.66,On-Campus,November,Bengaluru
+ENG0250,Male,Architecture,2023,76.3,67.31,5.56,0,No,1,0,Not Placed,,,0.0,,,
+ENG0251,Female,Computer Science & Engineering,2023,86.52,98.0,9.71,0,Yes,7,4,Placed,Google,QA Engineer,21.72,On-Campus,December,Coimbatore
+ENG0252,Female,Computer Science & Engineering,2024,87.52,85.44,7.45,3,No,1,1,Not Placed,,,0.0,,,
+ENG0253,Male,Computer Science & Engineering,2023,71.06,75.98,6.49,2,Yes,4,1,Placed,Wipro,Data Analyst,5.58,On-Campus,January,Coimbatore
+ENG0254,Male,Electrical Engineering,2024,74.15,78.41,7.43,0,Yes,4,1,Placed,ABB,Electrical Engineer,9.21,Pool Campus,January,Bengaluru
+ENG0255,Male,Computer Science & Engineering,2025,76.21,74.59,6.82,1,Yes,1,2,Placed,Cognizant,Software Engineer,8.18,On-Campus,December,Chennai
+ENG0256,Female,Civil Engineering,2023,79.14,74.26,7.42,0,Yes,2,2,Placed,NBCC,Graduate Engineer Trainee,7.67,Pool Campus,January,Coimbatore
+ENG0257,Female,Mechanical Engineering,2025,71.1,88.18,7.23,1,No,2,0,Placed,Tata Power,Mechanical Engineer,11.12,On-Campus,September,Mumbai
+ENG0258,Male,Civil Engineering,2024,70.62,79.99,7.17,0,Yes,0,1,Placed,DLF,Graduate Engineer Trainee,6.06,Off-Campus,March,Pune
+ENG0259,Male,Electronics & Communication Engineering,2021,75.43,82.32,7.89,0,Yes,1,2,Placed,Infosys,Software Engineer,7.57,On-Campus,December,Chennai
+ENG0260,Male,Chemical Engineering,2023,82.69,86.05,7.31,2,Yes,4,2,Not Placed,,,0.0,,,
+ENG0261,Male,Computer Science & Engineering,2024,72.56,67.39,6.45,1,No,0,2,Not Placed,,,0.0,,,
+ENG0262,Female,Electronics & Communication Engineering,2025,81.07,89.75,8.37,0,Yes,2,4,Placed,Accenture,Business Analyst,6.06,Off-Campus,March,Chennai
+ENG0263,Male,Information Technology,2023,90.47,81.95,7.7,0,Yes,5,2,Placed,Tiger Analytics,Data Analyst,15.32,On-Campus,September,Noida
+ENG0264,Male,Chemical Engineering,2021,71.59,75.67,7.2,0,No,0,1,Not Placed,,,0.0,,,
+ENG0265,Female,Electrical Engineering,2024,80.35,68.79,6.04,2,No,2,4,Not Placed,,,0.0,,,
+ENG0266,Male,Civil Engineering,2021,90.2,73.36,6.17,2,No,2,2,Not Placed,,,0.0,,,
+ENG0267,Male,Computer Science & Engineering,2024,78.65,81.22,7.23,0,No,0,1,Not Placed,,,0.0,,,
+ENG0268,Male,Chemical Engineering,2023,77.41,72.39,7.27,0,Yes,4,0,Placed,Reliance Industries,Graduate Engineer Trainee,10.11,On-Campus,December,Noida
+ENG0269,Male,Electronics & Communication Engineering,2024,91.31,74.56,6.28,0,No,2,0,Placed,Texas Instruments,Architect,8.71,Off-Campus,October,Coimbatore
+ENG0270,Male,Electronics & Communication Engineering,2025,79.55,83.45,7.07,0,No,0,0,Placed,Schneider Electric,Graduate Engineer Trainee,6.66,Pool Campus,November,Kolkata
+ENG0271,Male,Chemical Engineering,2024,90.84,98.0,7.9,0,No,2,0,Placed,Reliance Industries,Graduate Engineer Trainee,7.57,On-Campus,January,Delhi NCR
+ENG0272,Male,Electronics & Communication Engineering,2024,85.43,93.8,7.43,0,No,0,0,Not Placed,,,0.0,,,
+ENG0273,Male,Electronics & Communication Engineering,2024,79.26,77.64,6.34,0,No,1,4,Not Placed,,,0.0,,,
+ENG0274,Male,Electrical Engineering,2025,85.84,84.44,7.34,2,No,0,0,Not Placed,,,0.0,,,
+ENG0275,Female,Computer Science & Engineering,2025,84.56,89.64,7.17,0,No,1,0,Not Placed,,,0.0,,,
+ENG0276,Male,Information Technology,2021,90.17,95.48,8.5,0,Yes,2,1,Placed,Wipro,DevOps Engineer,6.14,On-Campus,October,Kolkata
+ENG0277,Male,Computer Science & Engineering,2024,77.61,75.81,6.06,0,No,0,0,Not Placed,,,0.0,,,
+ENG0278,Male,Computer Science & Engineering,2022,82.33,81.99,7.28,0,No,1,1,Not Placed,,,0.0,,,
+ENG0279,Female,Civil Engineering,2025,81.51,83.24,8.18,0,Yes,2,1,Placed,Tata Projects,Graduate Engineer Trainee,10.5,Off-Campus,December,Pune
+ENG0280,Female,Electrical Engineering,2024,87.63,89.6,7.99,0,Yes,2,1,Placed,Tiger Analytics,Data Analyst,13.91,On-Campus,September,Coimbatore
+ENG0281,Male,Information Technology,2023,73.8,74.42,6.66,1,No,2,0,Not Placed,,,0.0,,,
+ENG0282,Male,Electronics & Communication Engineering,2022,90.14,86.76,8.19,1,Yes,0,1,Not Placed,,,0.0,,,
+ENG0283,Male,Electronics & Communication Engineering,2023,85.73,93.96,7.78,0,Yes,2,1,Placed,Wipro,QA Engineer,6.7,On-Campus,February,Ahmedabad
+ENG0284,Male,Electrical Engineering,2024,71.46,82.07,6.98,1,No,0,0,Not Placed,,,0.0,,,
+ENG0285,Male,Architecture,2022,91.67,92.09,8.38,0,Yes,5,0,Placed,NBCC,Graduate Engineer Trainee,6.03,On-Campus,March,Coimbatore
+ENG0286,Male,Architecture,2021,99.0,98.0,9.21,1,Yes,4,5,Placed,DLF,Graduate Engineer Trainee,6.95,On-Campus,January,Noida
+ENG0287,Male,Electronics & Communication Engineering,2025,90.01,84.81,7.57,0,No,1,0,Placed,Infosys,QA Engineer,6.54,On-Campus,October,Noida
+ENG0288,Male,Information Technology,2024,93.42,98.0,9.44,0,Yes,0,2,Placed,Wipro,Software Engineer,4.44,On-Campus,December,Chennai
+ENG0289,Male,Electronics & Communication Engineering,2022,82.68,85.81,6.61,0,No,0,0,Not Placed,,,0.0,,,
+ENG0290,Male,Electrical Engineering,2022,68.71,94.43,8.86,0,Yes,4,2,Placed,BHEL,Electrical Engineer,6.28,Off-Campus,March,Chennai
+ENG0291,Female,Electronics & Communication Engineering,2025,67.25,62.09,6.32,0,Yes,3,0,Placed,Siemens,Mechanical Engineer,12.13,On-Campus,November,Kolkata
+ENG0292,Male,Mechanical Engineering,2024,84.04,78.21,7.52,1,Yes,3,2,Placed,Bosch,Mechanical Engineer,8.74,On-Campus,January,Mumbai
+ENG0293,Female,Electrical Engineering,2024,77.26,80.88,7.32,0,No,2,0,Placed,Infosys,Data Analyst,4.5,On-Campus,December,Mumbai
+ENG0294,Male,Information Technology,2022,74.68,78.79,7.11,0,No,1,0,Not Placed,,,0.0,,,
+ENG0295,Female,Information Technology,2022,81.5,94.77,8.45,0,No,1,0,Placed,Cognizant,Data Analyst,7.53,Off-Campus,January,Ahmedabad
+ENG0296,Female,Electronics & Communication Engineering,2021,86.92,80.51,7.16,1,Yes,4,0,Not Placed,,,0.0,,,
+ENG0297,Female,Computer Science & Engineering,2024,70.38,79.12,6.94,0,Yes,0,0,Placed,Adobe,QA Engineer,24.72,On-Campus,September,Pune
+ENG0298,Female,Computer Science & Engineering,2021,78.41,86.94,8.09,1,Yes,2,6,Placed,EXL,Data Analyst,12.38,On-Campus,October,Ahmedabad
+ENG0299,Female,Mechanical Engineering,2021,94.08,95.49,7.91,1,No,2,1,Placed,Tata Motors,Graduate Engineer Trainee,10.79,Pool Campus,February,Bengaluru
+ENG0300,Female,Electronics & Communication Engineering,2024,73.4,68.32,6.06,0,No,2,1,Not Placed,,,0.0,,,
+ENG0301,Female,Computer Science & Engineering,2025,88.96,96.57,9.95,0,Yes,2,1,Placed,Atlassian,Software Engineer,23.27,On-Campus,September,Noida
+ENG0302,Male,Electrical Engineering,2024,78.12,87.2,7.38,0,Yes,3,0,Placed,Havells,Graduate Engineer Trainee,7.73,On-Campus,November,Mumbai
+ENG0303,Male,Mechanical Engineering,2023,86.37,88.97,7.65,1,No,4,0,Placed,Tata Power,Graduate Engineer Trainee,6.98,Off-Campus,January,Pune
+ENG0304,Male,Information Technology,2023,90.78,89.51,7.42,3,No,3,0,Not Placed,,,0.0,,,
+ENG0305,Female,Civil Engineering,2023,87.93,87.53,7.43,1,No,0,2,Placed,Shapoorji Pallonji,Civil Engineer,9.77,Off-Campus,November,Delhi NCR
+ENG0306,Male,Architecture,2022,89.27,86.4,6.96,0,Yes,1,0,Placed,L&T,Architect,5.7,Pool Campus,November,Bengaluru
+ENG0307,Male,Electrical Engineering,2023,72.79,79.08,6.85,0,No,3,1,Not Placed,,,0.0,,,
+ENG0308,Female,Mechanical Engineering,2023,90.91,88.4,8.58,1,Yes,0,2,Placed,Cognizant,Software Engineer,5.4,Off-Campus,December,Pune
+ENG0309,Male,Computer Science & Engineering,2024,75.18,70.44,6.16,0,No,3,1,Not Placed,,,0.0,,,
+ENG0310,Male,Chemical Engineering,2025,84.08,75.72,7.06,0,Yes,3,3,Placed,ONGC,Graduate Engineer Trainee,10.19,On-Campus,November,Noida
+ENG0311,Male,Electronics & Communication Engineering,2025,84.07,77.79,7.83,0,Yes,5,3,Placed,Microsoft,QA Engineer,23.95,On-Campus,August,Pune
+ENG0312,Male,Architecture,2021,85.88,85.97,8.64,0,Yes,5,1,Placed,L&T,Graduate Engineer Trainee,9.24,Pool Campus,January,Coimbatore
+ENG0313,Male,Electrical Engineering,2023,84.7,83.33,7.93,0,No,2,0,Placed,Wipro,Software Engineer,6.53,On-Campus,January,Ahmedabad
+ENG0314,Male,Computer Science & Engineering,2022,75.25,77.94,8.2,0,Yes,4,4,Placed,Atlassian,DevOps Engineer,23.97,On-Campus,October,Ahmedabad
+ENG0315,Male,Computer Science & Engineering,2023,71.2,76.91,7.26,0,Yes,5,4,Placed,Deloitte,Business Analyst,8.04,On-Campus,December,Noida
+ENG0316,Male,Mechanical Engineering,2022,88.98,82.34,8.14,0,Yes,4,0,Placed,Tata Power,Mechanical Engineer,11.41,On-Campus,March,Bengaluru
+ENG0317,Male,Electrical Engineering,2022,83.49,92.87,7.82,0,No,1,1,Placed,Siemens,Electrical Engineer,6.64,Off-Campus,February,Bengaluru
+ENG0318,Female,Computer Science & Engineering,2024,91.2,86.52,7.53,2,Yes,3,2,Not Placed,,,0.0,,,
+ENG0319,Male,Mechanical Engineering,2023,81.64,78.2,7.95,0,Yes,3,2,Placed,Bosch,Mechanical Engineer,10.08,On-Campus,November,Delhi NCR
+ENG0320,Female,Civil Engineering,2025,70.76,76.45,8.05,1,Yes,5,1,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,5.61,On-Campus,October,Kolkata
+ENG0321,Female,Electronics & Communication Engineering,2021,89.73,74.44,7.25,1,Yes,4,1,Placed,PhonePe,Data Analyst,12.76,On-Campus,August,Delhi NCR
+ENG0322,Male,Electronics & Communication Engineering,2021,79.04,73.74,7.16,1,No,3,1,Placed,Accenture,Business Analyst,6.44,Pool Campus,October,Kolkata
+ENG0323,Male,Computer Science & Engineering,2023,84.74,90.42,7.71,1,No,0,0,Not Placed,,,0.0,,,
+ENG0324,Male,Civil Engineering,2021,76.82,65.45,5.94,3,No,4,1,Not Placed,,,0.0,,,
+ENG0325,Female,Information Technology,2022,95.15,98.0,7.95,1,Yes,0,1,Placed,Infosys,Software Engineer,4.82,On-Campus,September,Ahmedabad
+ENG0326,Female,Civil Engineering,2025,74.99,86.82,6.63,2,No,1,0,Not Placed,,,0.0,,,
+ENG0327,Female,Electronics & Communication Engineering,2022,79.3,76.89,6.72,0,Yes,3,2,Placed,Qualcomm,Graduate Engineer Trainee,9.92,On-Campus,October,Mumbai
+ENG0328,Male,Electrical Engineering,2022,82.86,84.19,7.53,2,No,2,1,Not Placed,,,0.0,,,
+ENG0329,Female,Information Technology,2024,73.26,82.78,7.96,0,Yes,1,4,Placed,Cognizant,QA Engineer,6.58,Off-Campus,December,Noida
+ENG0330,Male,Computer Science & Engineering,2023,84.64,80.22,7.31,0,No,4,2,Placed,TCS,QA Engineer,6.85,Off-Campus,December,Noida
+ENG0331,Female,Mechanical Engineering,2024,94.9,97.25,8.46,0,Yes,2,3,Placed,Tata Motors,Graduate Engineer Trainee,10.99,Pool Campus,January,Kolkata
+ENG0332,Male,Electronics & Communication Engineering,2023,78.08,73.86,6.31,1,No,4,0,Not Placed,,,0.0,,,
+ENG0333,Female,Electronics & Communication Engineering,2025,85.16,80.53,6.78,1,Yes,1,3,Placed,Wipro,Data Analyst,6.28,Pool Campus,August,Delhi NCR
+ENG0334,Female,Chemical Engineering,2021,60.0,59.41,5.16,1,No,0,0,Not Placed,,,0.0,,,
+ENG0335,Male,Chemical Engineering,2023,81.69,83.66,6.95,1,No,3,0,Not Placed,,,0.0,,,
+ENG0336,Male,Civil Engineering,2024,79.5,87.73,8.06,0,Yes,2,0,Placed,Wipro,DevOps Engineer,6.81,Off-Campus,August,Coimbatore
+ENG0337,Male,Computer Science & Engineering,2025,75.45,75.3,6.43,0,No,1,1,Not Placed,,,0.0,,,
+ENG0338,Female,Electrical Engineering,2023,90.65,79.09,7.64,0,Yes,5,3,Placed,L&T,Electrical Engineer,7.82,On-Campus,January,Pune
+ENG0339,Male,Civil Engineering,2024,79.39,71.96,6.39,2,No,4,1,Not Placed,,,0.0,,,
+ENG0340,Female,Electronics & Communication Engineering,2021,80.58,83.2,7.33,1,No,0,1,Not Placed,,,0.0,,,
+ENG0341,Male,Computer Science & Engineering,2022,78.98,92.15,9.42,0,Yes,3,2,Placed,Cognizant,DevOps Engineer,7.64,On-Campus,February,Bengaluru
+ENG0342,Female,Civil Engineering,2021,66.67,72.76,6.32,2,No,3,1,Not Placed,,,0.0,,,
+ENG0343,Female,Electronics & Communication Engineering,2024,72.94,72.0,5.73,0,No,2,0,Not Placed,,,0.0,,,
+ENG0344,Male,Electrical Engineering,2022,89.69,92.63,8.42,0,Yes,6,0,Placed,ABB,Electrical Engineer,6.29,On-Campus,February,Bengaluru
+ENG0345,Female,Chemical Engineering,2024,65.12,67.16,6.62,2,No,2,2,Not Placed,,,0.0,,,
+ENG0346,Female,Electrical Engineering,2021,75.87,74.25,6.91,0,Yes,2,0,Not Placed,,,0.0,,,
+ENG0347,Female,Electronics & Communication Engineering,2025,78.8,72.39,6.77,1,No,2,2,Placed,Infosys,QA Engineer,4.8,Pool Campus,August,Coimbatore
+ENG0348,Male,Information Technology,2025,95.95,98.0,8.01,1,Yes,1,1,Placed,Infosys,Software Engineer,6.13,On-Campus,November,Hyderabad
+ENG0349,Male,Electronics & Communication Engineering,2021,88.15,68.34,7.41,0,Yes,3,1,Placed,Mu Sigma,Data Analyst,10.0,On-Campus,November,Mumbai
+ENG0350,Male,Computer Science & Engineering,2021,77.54,83.74,7.23,0,No,3,0,Placed,Microsoft,DevOps Engineer,18.66,Off-Campus,September,Kolkata
+ENG0351,Male,Civil Engineering,2021,92.44,86.08,7.64,0,Yes,2,2,Placed,Tata Projects,Civil Engineer,8.13,On-Campus,October,Delhi NCR
+ENG0352,Male,Civil Engineering,2025,76.08,74.18,7.0,0,Yes,1,0,Placed,Shapoorji Pallonji,Civil Engineer,12.14,Pool Campus,November,Pune
+ENG0353,Male,Information Technology,2022,90.07,98.0,8.22,0,Yes,2,0,Placed,Accenture,QA Engineer,7.14,On-Campus,September,Coimbatore
+ENG0354,Male,Information Technology,2023,71.13,68.35,6.34,1,No,3,0,Placed,Wipro,Data Analyst,5.69,On-Campus,November,Hyderabad
+ENG0355,Male,Civil Engineering,2023,90.59,83.18,6.74,1,No,1,1,Not Placed,,,0.0,,,
+ENG0356,Male,Computer Science & Engineering,2024,78.75,78.15,7.5,0,No,5,3,Placed,Wipro,Data Analyst,7.17,Off-Campus,October,Kolkata
+ENG0357,Female,Electronics & Communication Engineering,2023,73.77,78.23,7.55,0,Yes,7,1,Placed,Capgemini,QA Engineer,7.57,Off-Campus,December,Delhi NCR
+ENG0358,Female,Electronics & Communication Engineering,2023,80.26,77.1,7.0,1,No,2,0,Not Placed,,,0.0,,,
+ENG0359,Male,Mechanical Engineering,2025,84.22,72.15,6.73,0,No,1,0,Not Placed,,,0.0,,,
+ENG0360,Male,Computer Science & Engineering,2022,78.04,72.47,6.83,0,No,4,2,Placed,PhonePe,Data Engineer,11.48,On-Campus,November,Noida
+ENG0361,Female,Mechanical Engineering,2025,86.43,93.79,9.09,0,Yes,6,5,Placed,Bosch,Graduate Engineer Trainee,9.93,Off-Campus,February,Ahmedabad
+ENG0362,Male,Electronics & Communication Engineering,2021,77.34,78.53,6.73,3,No,2,1,Not Placed,,,0.0,,,
+ENG0363,Male,Electrical Engineering,2023,86.96,88.38,7.8,0,Yes,2,2,Placed,BHEL,Electrical Engineer,9.27,Off-Campus,October,Noida
+ENG0364,Male,Computer Science & Engineering,2025,85.54,82.32,6.59,1,Yes,2,2,Not Placed,,,0.0,,,
+ENG0365,Female,Electronics & Communication Engineering,2024,81.51,76.52,6.95,1,No,1,1,Not Placed,,,0.0,,,
+ENG0366,Male,Electronics & Communication Engineering,2024,78.47,90.59,8.58,1,Yes,1,0,Placed,Amazon,Software Engineer,23.96,On-Campus,January,Hyderabad
+ENG0367,Female,Computer Science & Engineering,2022,83.21,81.09,7.25,1,Yes,5,1,Not Placed,,,0.0,,,
+ENG0368,Female,Computer Science & Engineering,2023,86.4,81.7,7.52,0,No,2,1,Not Placed,,,0.0,,,
+ENG0369,Male,Computer Science & Engineering,2023,98.49,98.0,7.88,0,Yes,3,1,Placed,Deloitte,Data Analyst,12.14,On-Campus,August,Ahmedabad
+ENG0370,Female,Information Technology,2023,89.52,82.08,7.7,0,Yes,3,3,Placed,Wipro,Data Analyst,6.36,On-Campus,October,Kolkata
+ENG0371,Female,Computer Science & Engineering,2023,89.81,83.19,7.58,4,Yes,2,2,Not Placed,,,0.0,,,
+ENG0372,Male,Chemical Engineering,2022,99.0,94.32,9.26,0,Yes,6,4,Placed,Indian Oil,Graduate Engineer Trainee,8.52,On-Campus,January,Chennai
+ENG0373,Male,Electronics & Communication Engineering,2022,86.13,84.6,9.07,0,Yes,3,1,Placed,Wipro,QA Engineer,7.13,Pool Campus,November,Ahmedabad
+ENG0374,Male,Civil Engineering,2022,85.88,86.23,7.09,0,No,3,0,Placed,L&T,Civil Engineer,9.74,On-Campus,February,Delhi NCR
+ENG0375,Male,Chemical Engineering,2023,87.63,98.0,8.24,1,No,2,1,Placed,Infosys,Data Analyst,6.26,On-Campus,December,Hyderabad
+ENG0376,Male,Computer Science & Engineering,2021,73.93,77.8,8.08,0,Yes,4,3,Placed,Cognizant,Business Analyst,5.51,Off-Campus,November,Chennai
+ENG0377,Female,Mechanical Engineering,2025,78.45,62.19,5.7,0,No,1,0,Not Placed,,,0.0,,,
+ENG0378,Male,Civil Engineering,2024,77.95,80.75,7.0,0,No,2,2,Not Placed,,,0.0,,,
+ENG0379,Male,Electrical Engineering,2021,87.18,85.65,7.56,0,No,0,2,Placed,Tiger Analytics,Data Analyst,13.88,On-Campus,August,Chennai
+ENG0380,Female,Electronics & Communication Engineering,2024,80.61,80.76,7.49,0,Yes,2,1,Placed,Fractal,Business Analyst,12.0,On-Campus,August,Ahmedabad
+ENG0381,Male,Electronics & Communication Engineering,2025,83.11,84.05,7.6,0,No,2,1,Placed,Schneider Electric,Civil Engineer,9.59,Off-Campus,October,Bengaluru
+ENG0382,Female,Computer Science & Engineering,2022,90.7,87.82,8.36,0,No,2,0,Placed,PhonePe,Data Engineer,12.97,On-Campus,September,Ahmedabad
+ENG0383,Female,Electronics & Communication Engineering,2022,88.91,86.31,8.81,0,Yes,2,0,Placed,TCS,Business Analyst,4.62,Off-Campus,November,Ahmedabad
+ENG0384,Male,Chemical Engineering,2021,80.71,84.82,7.86,0,Yes,4,3,Placed,Indian Oil,Graduate Engineer Trainee,11.73,On-Campus,August,Kolkata
+ENG0385,Male,Chemical Engineering,2021,76.64,73.69,7.14,0,Yes,5,1,Placed,Reliance Industries,Graduate Engineer Trainee,8.43,On-Campus,December,Kolkata
+ENG0386,Female,Computer Science & Engineering,2024,91.08,81.68,6.12,1,No,0,0,Not Placed,,,0.0,,,
+ENG0387,Female,Mechanical Engineering,2025,88.19,98.0,8.96,0,Yes,1,0,Placed,L&T,Mechanical Engineer,9.46,Off-Campus,October,Pune
+ENG0388,Female,Information Technology,2021,69.15,66.85,6.06,0,Yes,3,2,Placed,Tiger Analytics,Business Analyst,15.16,On-Campus,September,Coimbatore
+ENG0389,Male,Architecture,2024,79.49,80.32,6.44,1,No,1,0,Not Placed,,,0.0,,,
+ENG0390,Female,Computer Science & Engineering,2021,83.32,72.02,6.35,1,No,2,3,Not Placed,,,0.0,,,
+ENG0391,Female,Architecture,2024,88.23,86.99,7.14,0,No,0,0,Placed,L&T,Architect,8.81,On-Campus,November,Hyderabad
+ENG0392,Male,Civil Engineering,2024,89.28,80.43,7.33,0,Yes,2,3,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,11.69,Off-Campus,November,Kolkata
+ENG0393,Male,Computer Science & Engineering,2023,84.27,80.11,8.83,0,Yes,3,1,Placed,Adobe,Software Engineer,21.62,On-Campus,September,Pune
+ENG0394,Female,Computer Science & Engineering,2021,86.68,92.33,8.95,0,Yes,3,3,Placed,Accenture,QA Engineer,8.56,On-Campus,October,Ahmedabad
+ENG0395,Male,Civil Engineering,2024,82.51,85.19,7.05,1,No,2,2,Not Placed,,,0.0,,,
+ENG0396,Male,Computer Science & Engineering,2025,76.61,81.44,7.88,1,No,1,4,Placed,Infosys,DevOps Engineer,7.3,On-Campus,December,Coimbatore
+ENG0397,Female,Electronics & Communication Engineering,2022,79.91,67.53,6.61,0,No,2,1,Not Placed,,,0.0,,,
+ENG0398,Male,Architecture,2022,82.15,94.47,8.92,0,Yes,4,4,Placed,L&T,Graduate Engineer Trainee,9.8,On-Campus,March,Mumbai
+ENG0399,Male,Electrical Engineering,2021,81.72,72.95,6.91,0,Yes,2,3,Placed,L&T,Electrical Engineer,7.17,Pool Campus,November,Bengaluru
+ENG0400,Male,Electronics & Communication Engineering,2024,66.92,80.89,7.3,0,Yes,1,2,Placed,Schneider Electric,Electrical Engineer,9.22,On-Campus,March,Kolkata
+ENG0401,Male,Electronics & Communication Engineering,2024,78.82,86.27,7.78,0,Yes,4,4,Placed,Infosys,Business Analyst,5.91,On-Campus,October,Ahmedabad
+ENG0402,Female,Computer Science & Engineering,2024,82.45,85.88,7.55,1,Yes,2,2,Placed,Google,Data Engineer,23.12,On-Campus,December,Mumbai
+ENG0403,Female,Chemical Engineering,2024,79.75,73.83,5.62,0,No,2,0,Placed,ONGC,Graduate Engineer Trainee,5.4,On-Campus,November,Pune
+ENG0404,Male,Information Technology,2025,80.03,81.08,7.76,1,Yes,4,1,Placed,Infosys,Data Analyst,4.88,On-Campus,December,Mumbai
+ENG0405,Female,Computer Science & Engineering,2025,85.9,81.13,7.19,0,Yes,5,1,Not Placed,,,0.0,,,
+ENG0406,Female,Information Technology,2022,73.37,75.23,7.42,1,Yes,3,2,Placed,Wipro,QA Engineer,5.89,Off-Campus,December,Pune
+ENG0407,Male,Chemical Engineering,2024,68.98,69.98,6.98,0,Yes,2,5,Placed,Indian Oil,Graduate Engineer Trainee,10.1,On-Campus,March,Hyderabad
+ENG0408,Female,Computer Science & Engineering,2022,79.21,65.14,6.1,0,No,0,0,Not Placed,,,0.0,,,
+ENG0409,Male,Civil Engineering,2022,88.11,93.94,8.0,0,Yes,0,1,Placed,L&T,Graduate Engineer Trainee,11.85,On-Campus,February,Mumbai
+ENG0410,Female,Mechanical Engineering,2025,95.5,91.06,8.27,0,Yes,3,3,Not Placed,,,0.0,,,
+ENG0411,Female,Civil Engineering,2024,88.26,82.8,6.2,1,No,1,1,Placed,DLF,Civil Engineer,7.06,On-Campus,September,Hyderabad
+ENG0412,Female,Chemical Engineering,2025,70.25,68.77,5.99,0,No,2,2,Not Placed,,,0.0,,,
+ENG0413,Male,Civil Engineering,2023,80.14,82.62,7.49,0,No,1,1,Placed,L&T,Graduate Engineer Trainee,11.53,Off-Campus,November,Coimbatore
+ENG0414,Female,Chemical Engineering,2023,84.05,76.78,6.54,1,No,1,0,Placed,BASF,Graduate Engineer Trainee,10.42,On-Campus,February,Pune
+ENG0415,Male,Computer Science & Engineering,2023,83.42,66.78,6.79,1,No,5,2,Placed,Cognizant,QA Engineer,6.38,Off-Campus,October,Coimbatore
+ENG0416,Male,Civil Engineering,2021,86.31,87.59,8.19,0,Yes,2,2,Placed,L&T,Civil Engineer,12.54,Off-Campus,January,Kolkata
+ENG0417,Male,Electrical Engineering,2022,74.66,79.63,7.15,0,No,1,0,Placed,ABB,Graduate Engineer Trainee,6.56,On-Campus,December,Ahmedabad
+ENG0418,Female,Electrical Engineering,2023,82.52,80.49,7.1,0,Yes,4,1,Placed,Schneider Electric,Electrical Engineer,7.5,Pool Campus,January,Pune
+ENG0419,Male,Architecture,2021,85.36,75.99,6.74,0,No,1,0,Not Placed,,,0.0,,,
+ENG0420,Female,Chemical Engineering,2025,88.61,87.08,8.87,0,Yes,1,2,Placed,Reliance Industries,Graduate Engineer Trainee,8.51,Off-Campus,November,Mumbai
+ENG0421,Female,Mechanical Engineering,2021,75.55,66.41,5.62,3,No,0,0,Not Placed,,,0.0,,,
+ENG0422,Male,Electronics & Communication Engineering,2022,79.24,72.24,7.16,1,Yes,2,3,Placed,Texas Instruments,Mechanical Engineer,6.66,On-Campus,March,Pune
+ENG0423,Male,Electronics & Communication Engineering,2024,60.37,60.02,6.06,2,No,0,2,Not Placed,,,0.0,,,
+ENG0424,Male,Electronics & Communication Engineering,2021,77.03,83.68,6.87,2,No,1,0,Not Placed,,,0.0,,,
+ENG0425,Male,Information Technology,2025,77.8,75.82,7.11,1,No,5,1,Placed,Tiger Analytics,Data Analyst,10.1,On-Campus,December,Bengaluru
+ENG0426,Female,Electronics & Communication Engineering,2024,73.84,72.25,6.83,0,No,3,0,Placed,Nokia,Mechanical Engineer,8.79,On-Campus,March,Noida
+ENG0427,Male,Computer Science & Engineering,2021,83.32,96.18,8.01,0,Yes,1,3,Placed,Wipro,Software Engineer,5.73,On-Campus,October,Mumbai
+ENG0428,Female,Computer Science & Engineering,2024,81.55,83.63,7.6,0,No,2,1,Placed,Atlassian,Software Engineer,24.39,Pool Campus,August,Kolkata
+ENG0429,Male,Mechanical Engineering,2024,63.93,70.32,7.19,0,Yes,2,3,Placed,Bosch,Graduate Engineer Trainee,8.55,On-Campus,January,Kolkata
+ENG0430,Female,Electronics & Communication Engineering,2024,83.72,80.21,7.98,1,Yes,6,6,Placed,Samsung R&D,Civil Engineer,10.66,Off-Campus,November,Bengaluru
+ENG0431,Female,Architecture,2025,74.57,71.76,6.45,0,No,1,0,Placed,DLF,Graduate Engineer Trainee,5.47,On-Campus,October,Pune
+ENG0432,Female,Electrical Engineering,2024,85.89,69.11,6.34,1,No,0,3,Not Placed,,,0.0,,,
+ENG0433,Female,Computer Science & Engineering,2024,71.75,80.59,8.01,0,Yes,7,1,Placed,Atlassian,Software Engineer,23.52,On-Campus,September,Ahmedabad
+ENG0434,Female,Computer Science & Engineering,2022,82.24,84.82,7.89,0,No,5,0,Placed,Infosys,Software Engineer,6.56,On-Campus,August,Delhi NCR
+ENG0435,Male,Computer Science & Engineering,2024,79.73,78.55,7.55,1,Yes,8,1,Placed,TCS,DevOps Engineer,7.39,On-Campus,November,Hyderabad
+ENG0436,Male,Chemical Engineering,2025,84.42,82.36,7.03,0,No,2,1,Not Placed,,,0.0,,,
+ENG0437,Male,Computer Science & Engineering,2024,83.0,87.4,9.09,0,Yes,4,2,Placed,Deloitte,Data Analyst,10.68,On-Campus,December,Mumbai
+ENG0438,Male,Electronics & Communication Engineering,2024,79.96,69.09,6.95,0,Yes,6,1,Placed,PhonePe,Business Analyst,12.3,Pool Campus,December,Delhi NCR
+ENG0439,Female,Architecture,2023,69.71,68.15,7.2,2,Yes,3,0,Not Placed,,,0.0,,,
+ENG0440,Female,Chemical Engineering,2024,70.18,64.68,5.88,0,No,2,1,Placed,Asian Paints,Graduate Engineer Trainee,8.1,Off-Campus,March,Delhi NCR
+ENG0441,Female,Information Technology,2025,77.33,90.4,7.71,1,Yes,1,0,Placed,PhonePe,Business Analyst,13.46,On-Campus,December,Hyderabad
+ENG0442,Male,Computer Science & Engineering,2022,81.93,87.58,7.54,1,Yes,2,0,Placed,TCS,QA Engineer,7.14,On-Campus,October,Mumbai
+ENG0443,Female,Computer Science & Engineering,2022,77.13,62.43,6.36,0,Yes,2,1,Placed,Accenture,DevOps Engineer,5.19,Off-Campus,December,Hyderabad
+ENG0444,Male,Computer Science & Engineering,2023,87.0,74.65,6.17,0,Yes,4,1,Placed,Accenture,Software Engineer,6.43,On-Campus,November,Ahmedabad
+ENG0445,Male,Computer Science & Engineering,2023,79.77,78.9,7.2,0,Yes,4,0,Placed,Tiger Analytics,Business Analyst,12.69,Pool Campus,December,Chennai
+ENG0446,Female,Electrical Engineering,2024,74.28,72.4,6.63,0,No,2,1,Placed,Tiger Analytics,Data Analyst,12.27,Off-Campus,August,Kolkata
+ENG0447,Female,Architecture,2021,79.78,70.56,6.93,2,No,3,0,Not Placed,,,0.0,,,
+ENG0448,Male,Electronics & Communication Engineering,2023,83.81,96.47,8.8,0,Yes,7,1,Placed,EXL,Business Analyst,10.06,Off-Campus,December,Mumbai
+ENG0449,Male,Electrical Engineering,2024,84.6,85.64,6.99,0,No,2,1,Not Placed,,,0.0,,,
+ENG0450,Male,Computer Science & Engineering,2024,97.03,96.09,8.31,1,Yes,1,2,Not Placed,,,0.0,,,
+ENG0451,Male,Civil Engineering,2024,76.65,72.64,6.41,0,No,5,0,Placed,Shapoorji Pallonji,Civil Engineer,10.72,On-Campus,September,Ahmedabad
+ENG0452,Female,Electrical Engineering,2024,81.41,86.12,8.5,0,Yes,1,4,Placed,L&T,Graduate Engineer Trainee,7.26,Off-Campus,January,Hyderabad
+ENG0453,Female,Civil Engineering,2024,85.41,81.39,8.53,0,Yes,4,2,Placed,L&T,Graduate Engineer Trainee,9.93,On-Campus,November,Hyderabad
+ENG0454,Male,Chemical Engineering,2024,81.81,79.38,7.1,1,No,3,0,Not Placed,,,0.0,,,
+ENG0455,Male,Information Technology,2024,78.0,82.77,6.74,1,No,1,1,Not Placed,,,0.0,,,
+ENG0456,Male,Computer Science & Engineering,2023,69.61,60.8,5.18,0,No,3,2,Not Placed,,,0.0,,,
+ENG0457,Female,Information Technology,2024,77.91,89.61,7.92,0,Yes,3,3,Placed,TCS,QA Engineer,5.99,On-Campus,October,Noida
+ENG0458,Male,Electronics & Communication Engineering,2021,73.41,76.33,7.62,0,Yes,4,4,Placed,Adobe,QA Engineer,24.65,Off-Campus,November,Kolkata
+ENG0459,Female,Chemical Engineering,2022,68.19,80.11,6.07,0,No,0,2,Not Placed,,,0.0,,,
+ENG0460,Female,Electronics & Communication Engineering,2023,75.63,69.2,5.81,1,No,1,0,Not Placed,,,0.0,,,
+ENG0461,Male,Mechanical Engineering,2025,73.62,68.76,5.99,2,No,0,2,Not Placed,,,0.0,,,
+ENG0462,Male,Electrical Engineering,2024,86.67,76.87,7.76,1,Yes,2,3,Placed,Tata Power,Graduate Engineer Trainee,8.61,On-Campus,January,Ahmedabad
+ENG0463,Female,Computer Science & Engineering,2021,86.81,86.86,7.88,0,Yes,2,3,Placed,Infosys,Business Analyst,4.82,On-Campus,December,Coimbatore
+ENG0464,Male,Information Technology,2024,74.77,76.54,7.54,0,No,1,2,Placed,Wipro,Data Analyst,4.35,On-Campus,December,Hyderabad
+ENG0465,Male,Mechanical Engineering,2022,79.92,76.69,7.03,1,Yes,2,1,Placed,Siemens,Graduate Engineer Trainee,12.08,Off-Campus,March,Ahmedabad
+ENG0466,Female,Mechanical Engineering,2024,67.13,63.25,5.0,1,No,1,0,Not Placed,,,0.0,,,
+ENG0467,Female,Electronics & Communication Engineering,2025,78.05,69.67,7.22,0,Yes,3,3,Placed,Texas Instruments,Graduate Engineer Trainee,8.72,On-Campus,February,Bengaluru
+ENG0468,Female,Information Technology,2024,85.19,83.55,7.69,2,No,3,1,Not Placed,,,0.0,,,
+ENG0469,Male,Mechanical Engineering,2024,88.6,83.19,7.41,0,Yes,1,2,Not Placed,,,0.0,,,
+ENG0470,Male,Computer Science & Engineering,2023,76.3,72.42,6.05,1,No,0,1,Not Placed,,,0.0,,,
+ENG0471,Male,Architecture,2023,90.41,98.0,8.02,0,Yes,3,2,Placed,NBCC,Graduate Engineer Trainee,12.2,On-Campus,January,Hyderabad
+ENG0472,Male,Computer Science & Engineering,2025,69.87,71.83,6.63,1,No,3,2,Not Placed,,,0.0,,,
+ENG0473,Male,Computer Science & Engineering,2024,72.02,82.9,8.21,0,Yes,4,3,Placed,PhonePe,Data Engineer,18.14,Off-Campus,November,Hyderabad
+ENG0474,Male,Electronics & Communication Engineering,2023,87.68,82.03,6.47,0,No,1,0,Placed,Wipro,Software Engineer,6.88,On-Campus,October,Chennai
+ENG0475,Male,Electronics & Communication Engineering,2023,95.37,93.24,8.08,1,No,0,1,Placed,TCS,QA Engineer,6.29,On-Campus,November,Hyderabad
+ENG0476,Male,Electronics & Communication Engineering,2021,85.95,84.07,6.6,2,No,1,1,Not Placed,,,0.0,,,
+ENG0477,Male,Electronics & Communication Engineering,2021,81.68,69.37,6.41,1,No,1,2,Placed,TCS,Software Engineer,6.6,On-Campus,December,Hyderabad
+ENG0478,Male,Chemical Engineering,2022,64.44,78.33,8.03,0,Yes,2,3,Placed,ONGC,Graduate Engineer Trainee,12.56,On-Campus,March,Bengaluru
+ENG0479,Female,Electronics & Communication Engineering,2023,65.82,68.42,6.95,0,No,3,0,Placed,Qualcomm,Electrical Engineer,9.69,Off-Campus,March,Ahmedabad
+ENG0480,Male,Electronics & Communication Engineering,2025,83.04,87.5,7.14,1,No,2,1,Not Placed,,,0.0,,,
+ENG0481,Male,Electronics & Communication Engineering,2023,79.14,74.09,7.06,0,No,2,2,Not Placed,,,0.0,,,
+ENG0482,Male,Computer Science & Engineering,2022,73.15,73.71,6.78,1,No,1,2,Not Placed,,,0.0,,,
+ENG0483,Male,Electrical Engineering,2021,82.52,75.83,5.79,0,No,1,0,Placed,Havells,Graduate Engineer Trainee,7.76,Off-Campus,March,Mumbai
+ENG0484,Male,Information Technology,2023,82.92,90.84,8.73,0,Yes,1,1,Placed,Infosys,QA Engineer,5.18,Off-Campus,August,Coimbatore
+ENG0485,Male,Electrical Engineering,2025,89.56,89.35,8.25,0,No,4,2,Placed,Wipro,Software Engineer,6.92,Pool Campus,February,Kolkata
+ENG0486,Male,Computer Science & Engineering,2023,83.09,84.89,8.09,0,Yes,0,2,Placed,Accenture,Software Engineer,8.62,Off-Campus,December,Noida
+ENG0487,Male,Chemical Engineering,2024,91.83,98.0,7.92,0,No,1,0,Placed,BASF,Graduate Engineer Trainee,5.19,Off-Campus,October,Ahmedabad
+ENG0488,Male,Electronics & Communication Engineering,2025,82.06,89.64,8.3,0,Yes,2,3,Placed,Atlassian,QA Engineer,25.53,On-Campus,August,Pune
+ENG0489,Male,Architecture,2021,81.08,86.17,7.32,0,No,1,1,Placed,Shapoorji Pallonji,Architect,11.11,On-Campus,November,Chennai
+ENG0490,Male,Electronics & Communication Engineering,2024,90.51,77.93,6.02,1,Yes,1,3,Placed,Siemens,Civil Engineer,11.86,Pool Campus,February,Pune
+ENG0491,Female,Computer Science & Engineering,2025,74.17,70.76,6.57,1,No,6,1,Not Placed,,,0.0,,,
+ENG0492,Female,Civil Engineering,2023,99.0,87.22,8.02,0,Yes,3,5,Placed,NBCC,Graduate Engineer Trainee,11.34,On-Campus,January,Bengaluru
+ENG0493,Female,Electrical Engineering,2021,85.0,88.84,8.07,0,Yes,1,1,Placed,ZS Associates,Data Analyst,12.79,Off-Campus,February,Chennai
+ENG0494,Male,Civil Engineering,2025,85.05,84.98,7.58,1,Yes,0,1,Not Placed,,,0.0,,,
+ENG0495,Female,Electronics & Communication Engineering,2025,86.2,74.92,6.46,0,No,0,0,Not Placed,,,0.0,,,
+ENG0496,Male,Electrical Engineering,2023,97.02,91.44,8.91,0,Yes,2,1,Placed,BHEL,Graduate Engineer Trainee,11.43,Off-Campus,December,Kolkata
+ENG0497,Male,Civil Engineering,2024,88.34,75.8,7.82,0,Yes,3,5,Placed,NBCC,Graduate Engineer Trainee,7.23,On-Campus,January,Kolkata
+ENG0498,Female,Electrical Engineering,2022,69.16,71.5,5.57,1,No,0,0,Not Placed,,,0.0,,,
+ENG0499,Male,Information Technology,2025,93.23,78.33,7.28,0,Yes,3,1,Placed,Wipro,Data Analyst,7.29,On-Campus,December,Bengaluru
+ENG0500,Male,Mechanical Engineering,2023,79.27,83.16,6.86,1,No,0,1,Not Placed,,,0.0,,,
+ENG0501,Female,Mechanical Engineering,2021,82.86,84.79,8.53,0,Yes,5,2,Placed,Bosch,Mechanical Engineer,9.48,On-Campus,December,Noida
+ENG0502,Female,Chemical Engineering,2024,71.77,87.18,7.41,0,Yes,3,1,Placed,Indian Oil,Graduate Engineer Trainee,6.45,On-Campus,December,Pune
+ENG0503,Female,Electronics & Communication Engineering,2025,86.21,90.59,7.73,0,No,4,1,Placed,Accenture,QA Engineer,5.15,On-Campus,March,Delhi NCR
+ENG0504,Male,Electronics & Communication Engineering,2025,76.79,74.63,6.85,1,Yes,4,1,Not Placed,,,0.0,,,
+ENG0505,Male,Civil Engineering,2022,82.8,87.83,8.11,0,Yes,0,1,Placed,Shapoorji Pallonji,Civil Engineer,8.67,Off-Campus,January,Hyderabad
+ENG0506,Female,Electronics & Communication Engineering,2021,79.73,70.01,6.88,0,Yes,2,1,Placed,Google,QA Engineer,25.36,Off-Campus,December,Pune
+ENG0507,Male,Mechanical Engineering,2025,97.4,86.31,8.36,0,Yes,3,2,Placed,Mahindra & Mahindra,Mechanical Engineer,7.54,Pool Campus,March,Pune
+ENG0508,Female,Electronics & Communication Engineering,2025,97.86,95.73,8.54,0,Yes,2,3,Placed,Fractal,Data Analyst,14.65,On-Campus,August,Coimbatore
+ENG0509,Male,Computer Science & Engineering,2023,82.37,66.67,5.68,1,No,1,0,Not Placed,,,0.0,,,
+ENG0510,Male,Mechanical Engineering,2024,82.51,81.62,8.07,0,Yes,2,1,Placed,Mahindra & Mahindra,Mechanical Engineer,9.8,Off-Campus,March,Bengaluru
+ENG0511,Male,Computer Science & Engineering,2023,79.01,72.12,6.56,3,No,0,2,Not Placed,,,0.0,,,
+ENG0512,Female,Computer Science & Engineering,2023,90.85,88.85,8.37,0,Yes,1,4,Placed,Atlassian,Data Engineer,27.75,On-Campus,August,Coimbatore
+ENG0513,Male,Electrical Engineering,2021,79.37,71.98,6.89,0,No,1,1,Not Placed,,,0.0,,,
+ENG0514,Male,Mechanical Engineering,2021,78.63,81.94,7.18,1,No,1,0,Not Placed,,,0.0,,,
+ENG0515,Male,Architecture,2022,89.83,87.51,7.72,0,No,0,0,Placed,L&T,Graduate Engineer Trainee,7.79,On-Campus,February,Ahmedabad
+ENG0516,Male,Information Technology,2025,77.69,88.07,8.2,0,Yes,4,3,Placed,Infosys,Software Engineer,5.77,Off-Campus,December,Delhi NCR
+ENG0517,Male,Computer Science & Engineering,2021,81.7,81.32,7.87,0,Yes,3,1,Placed,EXL,Data Analyst,11.86,On-Campus,August,Kolkata
+ENG0518,Female,Chemical Engineering,2022,69.35,66.63,6.4,1,No,0,1,Placed,Indian Oil,Graduate Engineer Trainee,10.17,On-Campus,February,Kolkata
+ENG0519,Male,Computer Science & Engineering,2023,87.63,84.0,7.2,1,No,0,3,Placed,Microsoft,Software Engineer,21.63,Off-Campus,August,Chennai
+ENG0520,Female,Computer Science & Engineering,2022,97.53,83.74,8.14,0,Yes,6,4,Placed,Capgemini,Data Analyst,6.93,On-Campus,December,Delhi NCR
+ENG0521,Female,Information Technology,2022,87.77,88.67,7.47,0,No,1,1,Placed,EXL,Data Analyst,13.0,On-Campus,August,Delhi NCR
+ENG0522,Male,Electronics & Communication Engineering,2024,93.69,94.4,7.9,0,No,0,0,Placed,ZS Associates,Data Analyst,14.76,Pool Campus,August,Chennai
+ENG0523,Male,Architecture,2023,75.23,93.71,8.21,0,Yes,4,2,Placed,DLF,Graduate Engineer Trainee,10.14,On-Campus,January,Noida
+ENG0524,Male,Mechanical Engineering,2024,83.89,78.57,6.29,1,No,1,0,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,10.65,Pool Campus,January,Coimbatore
+ENG0525,Male,Mechanical Engineering,2025,74.45,73.97,7.41,1,Yes,6,2,Placed,L&T,Graduate Engineer Trainee,6.06,On-Campus,December,Mumbai
+ENG0526,Male,Computer Science & Engineering,2022,80.18,76.1,7.05,0,Yes,1,3,Placed,Infosys,DevOps Engineer,7.7,Off-Campus,December,Ahmedabad
+ENG0527,Female,Information Technology,2025,88.18,87.62,8.46,0,Yes,4,2,Placed,Accenture,Business Analyst,5.83,Off-Campus,September,Noida
+ENG0528,Female,Electronics & Communication Engineering,2025,82.81,84.78,8.24,1,Yes,3,1,Placed,Qualcomm,Civil Engineer,10.75,Pool Campus,February,Noida
+ENG0529,Female,Computer Science & Engineering,2025,70.7,72.65,6.92,1,Yes,2,2,Not Placed,,,0.0,,,
+ENG0530,Male,Information Technology,2024,71.48,81.21,6.7,2,No,1,1,Not Placed,,,0.0,,,
+ENG0531,Female,Information Technology,2024,70.95,68.89,6.58,0,No,1,3,Placed,Wipro,Software Engineer,3.94,Off-Campus,December,Coimbatore
+ENG0532,Female,Computer Science & Engineering,2024,85.93,91.35,7.6,1,Yes,1,3,Placed,PhonePe,Data Engineer,14.85,On-Campus,October,Kolkata
+ENG0533,Male,Electrical Engineering,2024,98.51,97.65,8.26,0,Yes,4,2,Placed,TCS,Software Engineer,6.08,On-Campus,March,Noida
+ENG0534,Female,Mechanical Engineering,2021,92.9,89.59,8.49,1,Yes,2,3,Placed,Tata Motors,Graduate Engineer Trainee,7.87,On-Campus,January,Bengaluru
+ENG0535,Male,Computer Science & Engineering,2025,66.83,67.92,7.02,2,No,0,3,Not Placed,,,0.0,,,
+ENG0536,Male,Electronics & Communication Engineering,2024,93.37,98.0,9.58,1,Yes,1,3,Placed,Cognizant,Software Engineer,8.1,On-Campus,December,Chennai
+ENG0537,Male,Civil Engineering,2024,89.49,81.4,8.22,0,Yes,3,2,Placed,Cognizant,QA Engineer,8.04,On-Campus,February,Bengaluru
+ENG0538,Male,Mechanical Engineering,2023,69.64,74.31,6.89,0,No,1,2,Not Placed,,,0.0,,,
+ENG0539,Male,Civil Engineering,2021,79.57,74.43,6.65,1,Yes,1,5,Placed,NBCC,Graduate Engineer Trainee,7.43,Pool Campus,November,Coimbatore
+ENG0540,Female,Electronics & Communication Engineering,2023,90.76,98.0,8.77,1,Yes,1,2,Placed,Infosys,Software Engineer,5.53,Off-Campus,December,Kolkata
+ENG0541,Female,Civil Engineering,2023,86.4,91.01,7.47,0,Yes,2,2,Not Placed,,,0.0,,,
+ENG0542,Male,Information Technology,2023,71.53,68.9,5.89,0,No,4,1,Placed,Mu Sigma,Data Engineer,10.41,On-Campus,December,Bengaluru
+ENG0543,Female,Information Technology,2023,86.89,88.75,7.04,0,No,0,1,Placed,Amazon,DevOps Engineer,19.05,Off-Campus,August,Ahmedabad
+ENG0544,Female,Computer Science & Engineering,2022,64.9,70.48,6.08,1,No,1,2,Not Placed,,,0.0,,,
+ENG0545,Male,Electronics & Communication Engineering,2023,80.22,76.55,6.48,0,No,1,1,Placed,Accenture,QA Engineer,6.7,On-Campus,December,Chennai
+ENG0546,Male,Electronics & Communication Engineering,2023,91.1,93.63,8.39,0,Yes,8,3,Placed,Cognizant,Software Engineer,6.68,Off-Campus,November,Hyderabad
+ENG0547,Male,Information Technology,2025,82.15,84.34,6.97,0,No,2,0,Not Placed,,,0.0,,,
+ENG0548,Male,Mechanical Engineering,2022,78.01,80.02,7.42,0,No,1,0,Placed,Tata Motors,Mechanical Engineer,11.48,On-Campus,December,Pune
+ENG0549,Female,Information Technology,2022,89.11,86.54,7.19,0,No,0,1,Placed,Capgemini,Data Analyst,7.58,On-Campus,November,Mumbai
+ENG0550,Male,Information Technology,2022,89.8,90.37,7.83,0,Yes,3,4,Placed,EXL,Data Engineer,12.36,On-Campus,December,Kolkata
+ENG0551,Male,Computer Science & Engineering,2023,92.48,90.97,9.23,0,Yes,1,4,Placed,Mu Sigma,Business Analyst,10.79,Off-Campus,August,Hyderabad
+ENG0552,Male,Electronics & Communication Engineering,2023,88.99,87.16,8.3,0,Yes,1,3,Placed,Microsoft,QA Engineer,20.52,On-Campus,September,Pune
+ENG0553,Male,Information Technology,2024,90.65,83.5,7.6,0,Yes,3,0,Placed,EXL,Data Engineer,9.38,On-Campus,September,Hyderabad
+ENG0554,Female,Information Technology,2025,87.86,97.75,9.32,0,Yes,3,2,Placed,Accenture,Data Analyst,7.81,Off-Campus,November,Mumbai
+ENG0555,Male,Information Technology,2022,84.12,75.74,6.55,0,Yes,1,0,Placed,Atlassian,Data Engineer,23.35,On-Campus,August,Noida
+ENG0556,Male,Mechanical Engineering,2024,82.72,85.03,6.84,1,No,4,0,Not Placed,,,0.0,,,
+ENG0557,Male,Architecture,2021,80.1,77.83,6.44,1,No,1,1,Not Placed,,,0.0,,,
+ENG0558,Male,Electronics & Communication Engineering,2022,72.3,86.54,7.9,1,Yes,0,2,Not Placed,,,0.0,,,
+ENG0559,Male,Electrical Engineering,2023,74.36,69.44,5.21,0,No,0,0,Not Placed,,,0.0,,,
+ENG0560,Male,Civil Engineering,2021,79.74,74.66,6.32,2,Yes,2,1,Not Placed,,,0.0,,,
+ENG0561,Male,Chemical Engineering,2024,83.93,76.16,6.65,1,No,1,5,Not Placed,,,0.0,,,
+ENG0562,Male,Electrical Engineering,2024,93.53,92.41,8.49,1,Yes,2,4,Placed,Tata Power,Graduate Engineer Trainee,7.78,On-Campus,October,Coimbatore
+ENG0563,Female,Architecture,2024,81.67,71.64,6.05,0,No,2,1,Not Placed,,,0.0,,,
+ENG0564,Female,Architecture,2023,90.03,84.17,7.21,0,Yes,2,2,Placed,NBCC,Graduate Engineer Trainee,7.14,Off-Campus,February,Ahmedabad
+ENG0565,Female,Civil Engineering,2024,90.63,72.91,7.24,0,No,1,1,Placed,DLF,Civil Engineer,8.01,On-Campus,December,Pune
+ENG0566,Female,Electronics & Communication Engineering,2023,80.15,81.79,7.8,1,Yes,2,2,Placed,TCS,Software Engineer,4.35,Pool Campus,November,Bengaluru
+ENG0567,Female,Computer Science & Engineering,2021,86.76,81.57,7.74,0,Yes,2,2,Placed,PhonePe,Data Engineer,17.78,On-Campus,August,Coimbatore
+ENG0568,Male,Computer Science & Engineering,2021,80.05,69.62,6.65,1,No,0,1,Not Placed,,,0.0,,,
+ENG0569,Male,Electronics & Communication Engineering,2024,92.58,97.03,7.94,0,No,1,0,Not Placed,,,0.0,,,
+ENG0570,Male,Electronics & Communication Engineering,2025,87.09,76.16,7.4,1,No,1,0,Placed,Accenture,QA Engineer,5.62,On-Campus,November,Pune
+ENG0571,Male,Electronics & Communication Engineering,2021,72.48,79.94,7.11,1,No,2,1,Not Placed,,,0.0,,,
+ENG0572,Female,Electrical Engineering,2024,83.29,77.56,7.1,0,Yes,3,2,Placed,PhonePe,Data Analyst,13.49,On-Campus,March,Kolkata
+ENG0573,Male,Electrical Engineering,2024,95.18,98.0,8.42,1,Yes,1,1,Placed,Wipro,Data Analyst,6.93,On-Campus,December,Bengaluru
+ENG0574,Female,Civil Engineering,2025,80.55,85.66,7.17,0,Yes,1,4,Placed,Tata Projects,Graduate Engineer Trainee,11.04,Off-Campus,November,Chennai
+ENG0575,Female,Computer Science & Engineering,2023,85.58,77.13,6.46,0,No,0,0,Not Placed,,,0.0,,,
+ENG0576,Male,Information Technology,2024,86.37,78.36,6.92,3,No,2,3,Not Placed,,,0.0,,,
+ENG0577,Female,Civil Engineering,2024,73.71,79.52,7.48,1,No,2,2,Not Placed,,,0.0,,,
+ENG0578,Male,Civil Engineering,2025,86.09,82.73,7.34,0,No,2,2,Placed,Tata Projects,Civil Engineer,8.04,On-Campus,January,Kolkata
+ENG0579,Female,Chemical Engineering,2021,70.85,71.95,6.37,4,Yes,1,1,Not Placed,,,0.0,,,
+ENG0580,Male,Civil Engineering,2025,77.0,86.65,7.12,4,No,1,0,Not Placed,,,0.0,,,
+ENG0581,Male,Architecture,2021,90.61,82.71,7.06,1,No,0,0,Not Placed,,,0.0,,,
+ENG0582,Male,Information Technology,2025,84.85,84.28,6.64,1,No,1,0,Not Placed,,,0.0,,,
+ENG0583,Male,Electronics & Communication Engineering,2021,79.56,86.36,6.96,0,No,3,0,Placed,Wipro,Data Analyst,3.57,On-Campus,October,Pune
+ENG0584,Male,Information Technology,2022,85.57,89.84,7.54,0,Yes,4,2,Placed,TCS,QA Engineer,4.36,On-Campus,November,Pune
+ENG0585,Female,Electrical Engineering,2021,81.52,80.02,7.52,0,Yes,2,6,Placed,Havells,Electrical Engineer,6.34,Off-Campus,November,Pune
+ENG0586,Female,Architecture,2023,82.1,79.55,7.67,0,No,3,2,Placed,Shapoorji Pallonji,Architect,5.35,Off-Campus,February,Ahmedabad
+ENG0587,Male,Information Technology,2023,87.25,73.27,6.33,3,No,1,0,Not Placed,,,0.0,,,
+ENG0588,Male,Electrical Engineering,2022,76.18,69.74,7.12,0,No,1,1,Placed,Siemens,Electrical Engineer,6.07,On-Campus,December,Bengaluru
+ENG0589,Male,Information Technology,2023,82.32,83.97,8.03,1,Yes,8,2,Placed,Accenture,QA Engineer,8.5,Off-Campus,October,Delhi NCR
+ENG0590,Male,Computer Science & Engineering,2023,79.5,78.66,7.1,1,Yes,1,1,Placed,Atlassian,Data Engineer,20.75,On-Campus,October,Noida
+ENG0591,Female,Computer Science & Engineering,2024,69.32,72.51,7.24,1,No,0,2,Placed,Deloitte,Business Analyst,13.52,Off-Campus,August,Chennai
+ENG0592,Male,Computer Science & Engineering,2025,74.64,83.25,7.43,2,No,2,0,Not Placed,,,0.0,,,
+ENG0593,Male,Chemical Engineering,2024,94.55,82.6,7.13,0,No,0,0,Placed,Wipro,Data Analyst,3.69,On-Campus,November,Ahmedabad
+ENG0594,Male,Electronics & Communication Engineering,2021,85.08,82.16,7.87,0,Yes,2,1,Placed,Cognizant,Software Engineer,7.09,Pool Campus,February,Kolkata
+ENG0595,Male,Civil Engineering,2022,71.41,74.88,7.04,0,Yes,4,3,Not Placed,,,0.0,,,
+ENG0596,Male,Mechanical Engineering,2025,69.68,67.33,6.61,2,No,1,1,Not Placed,,,0.0,,,
+ENG0597,Female,Computer Science & Engineering,2021,81.1,90.85,7.14,1,No,2,0,Not Placed,,,0.0,,,
+ENG0598,Female,Computer Science & Engineering,2023,94.49,97.23,8.02,0,No,0,2,Placed,Adobe,Software Engineer,24.2,Off-Campus,August,Kolkata
+ENG0599,Female,Civil Engineering,2025,80.51,82.41,7.53,1,No,0,1,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,5.31,Off-Campus,February,Chennai
+ENG0600,Female,Information Technology,2025,92.46,98.0,8.88,0,Yes,1,4,Placed,Google,Data Engineer,32.15,Off-Campus,August,Delhi NCR
+ENG0601,Male,Architecture,2023,84.82,73.12,7.31,0,Yes,3,3,Placed,DLF,Architect,9.92,On-Campus,March,Kolkata
+ENG0602,Female,Computer Science & Engineering,2024,85.77,84.27,7.15,0,Yes,3,1,Placed,TCS,Data Analyst,4.68,On-Campus,January,Pune
+ENG0603,Female,Mechanical Engineering,2023,71.31,76.05,6.87,2,No,1,0,Not Placed,,,0.0,,,
+ENG0604,Female,Civil Engineering,2024,89.5,80.72,6.43,1,No,0,0,Not Placed,,,0.0,,,
+ENG0605,Female,Information Technology,2021,79.32,81.6,5.91,1,No,0,1,Placed,Accenture,DevOps Engineer,4.34,On-Campus,December,Bengaluru
+ENG0606,Female,Information Technology,2021,88.9,78.93,7.28,0,Yes,1,2,Placed,Infosys,Software Engineer,7.46,Pool Campus,December,Coimbatore
+ENG0607,Female,Chemical Engineering,2024,75.49,81.45,6.64,1,No,1,0,Placed,Asian Paints,Graduate Engineer Trainee,7.15,On-Campus,March,Bengaluru
+ENG0608,Male,Information Technology,2022,83.42,89.97,7.43,0,No,2,1,Placed,Infosys,QA Engineer,5.23,On-Campus,October,Coimbatore
+ENG0609,Female,Electronics & Communication Engineering,2024,84.82,85.52,7.98,0,No,2,2,Placed,Microsoft,QA Engineer,23.21,Off-Campus,September,Pune
+ENG0610,Male,Electronics & Communication Engineering,2023,80.77,67.61,6.79,1,Yes,4,3,Placed,Cognizant,Data Analyst,5.76,On-Campus,February,Ahmedabad
+ENG0611,Male,Information Technology,2025,85.24,77.16,6.81,0,No,0,2,Not Placed,,,0.0,,,
+ENG0612,Female,Mechanical Engineering,2025,79.87,83.85,7.29,1,No,0,2,Not Placed,,,0.0,,,
+ENG0613,Female,Mechanical Engineering,2023,76.81,77.75,7.76,1,Yes,0,4,Placed,Tata Power,Mechanical Engineer,8.48,Off-Campus,February,Noida
+ENG0614,Female,Electronics & Communication Engineering,2024,94.84,72.27,7.39,0,Yes,6,5,Placed,Capgemini,Software Engineer,5.88,On-Campus,December,Coimbatore
+ENG0615,Male,Civil Engineering,2022,90.39,96.49,9.43,1,Yes,5,3,Placed,DLF,Civil Engineer,12.21,Off-Campus,October,Bengaluru
+ENG0616,Female,Computer Science & Engineering,2023,75.91,77.89,6.19,1,No,1,1,Not Placed,,,0.0,,,
+ENG0617,Female,Computer Science & Engineering,2022,86.55,79.18,6.34,3,No,0,0,Not Placed,,,0.0,,,
+ENG0618,Male,Electrical Engineering,2025,76.06,84.01,7.81,0,Yes,0,6,Placed,ABB,Graduate Engineer Trainee,9.99,Off-Campus,December,Ahmedabad
+ENG0619,Male,Chemical Engineering,2025,72.52,69.65,5.98,1,No,0,2,Placed,Capgemini,Data Analyst,6.86,On-Campus,December,Ahmedabad
+ENG0620,Male,Computer Science & Engineering,2025,90.27,82.88,7.56,1,No,2,1,Not Placed,,,0.0,,,
+ENG0621,Female,Computer Science & Engineering,2025,68.37,73.78,6.41,1,Yes,3,3,Placed,Capgemini,Business Analyst,7.09,On-Campus,October,Noida
+ENG0622,Male,Electronics & Communication Engineering,2025,89.41,98.0,8.19,0,Yes,4,1,Placed,Capgemini,Business Analyst,7.45,On-Campus,February,Kolkata
+ENG0623,Female,Civil Engineering,2022,79.98,91.35,8.11,2,No,1,1,Not Placed,,,0.0,,,
+ENG0624,Male,Computer Science & Engineering,2025,80.31,82.75,7.72,0,Yes,2,3,Placed,Mu Sigma,Data Engineer,13.42,On-Campus,August,Delhi NCR
+ENG0625,Female,Electronics & Communication Engineering,2024,85.28,87.2,7.85,0,Yes,3,0,Placed,Fractal,Data Analyst,13.3,Pool Campus,August,Noida
+ENG0626,Male,Mechanical Engineering,2023,86.65,90.53,7.54,0,No,2,2,Not Placed,,,0.0,,,
+ENG0627,Female,Electronics & Communication Engineering,2024,75.39,67.74,5.63,2,No,0,0,Not Placed,,,0.0,,,
+ENG0628,Male,Computer Science & Engineering,2023,87.74,90.32,8.67,0,Yes,2,2,Placed,Adobe,DevOps Engineer,22.64,Off-Campus,August,Chennai
+ENG0629,Male,Computer Science & Engineering,2022,82.91,77.04,7.48,0,Yes,1,3,Placed,TCS,Data Analyst,6.82,On-Campus,December,Ahmedabad
+ENG0630,Female,Electronics & Communication Engineering,2022,71.95,76.19,7.27,1,Yes,2,5,Placed,Qualcomm,Civil Engineer,6.88,Off-Campus,February,Chennai
+ENG0631,Female,Electronics & Communication Engineering,2021,80.64,78.89,6.35,0,No,2,0,Not Placed,,,0.0,,,
+ENG0632,Female,Civil Engineering,2023,93.05,93.3,8.25,0,No,1,2,Placed,Shapoorji Pallonji,Civil Engineer,6.33,Off-Campus,January,Coimbatore
+ENG0633,Male,Electrical Engineering,2025,95.41,92.39,8.53,1,Yes,0,4,Placed,Havells,Electrical Engineer,8.11,Off-Campus,February,Mumbai
+ENG0634,Male,Mechanical Engineering,2024,87.74,64.29,7.06,0,Yes,2,2,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,9.92,On-Campus,March,Kolkata
+ENG0635,Male,Chemical Engineering,2023,72.48,75.61,5.97,0,Yes,1,0,Not Placed,,,0.0,,,
+ENG0636,Male,Electronics & Communication Engineering,2023,85.92,88.94,7.65,0,No,3,2,Placed,Nokia,Mechanical Engineer,10.54,Off-Campus,February,Mumbai
+ENG0637,Female,Electronics & Communication Engineering,2023,88.81,89.73,7.55,0,Yes,4,1,Not Placed,,,0.0,,,
+ENG0638,Female,Architecture,2022,87.81,85.14,7.7,2,Yes,3,4,Not Placed,,,0.0,,,
+ENG0639,Female,Information Technology,2025,88.28,97.7,8.76,0,No,2,1,Placed,Accenture,QA Engineer,6.69,On-Campus,September,Noida
+ENG0640,Female,Mechanical Engineering,2022,84.91,85.86,7.43,0,No,1,2,Not Placed,,,0.0,,,
+ENG0641,Female,Mechanical Engineering,2024,81.42,84.13,7.37,0,No,3,1,Placed,Bosch,Mechanical Engineer,6.72,On-Campus,January,Mumbai
+ENG0642,Female,Computer Science & Engineering,2024,77.13,85.16,7.91,0,Yes,3,2,Placed,Google,Software Engineer,21.84,On-Campus,August,Chennai
+ENG0643,Male,Electronics & Communication Engineering,2024,66.82,72.65,6.59,0,Yes,1,1,Placed,Capgemini,Software Engineer,4.85,On-Campus,August,Hyderabad
+ENG0644,Male,Computer Science & Engineering,2025,84.72,77.25,7.37,1,Yes,6,1,Placed,Google,Data Engineer,31.67,Off-Campus,August,Hyderabad
+ENG0645,Female,Computer Science & Engineering,2022,83.49,65.55,5.3,1,No,2,0,Not Placed,,,0.0,,,
+ENG0646,Female,Electronics & Communication Engineering,2025,86.46,81.51,6.36,1,No,0,0,Not Placed,,,0.0,,,
+ENG0647,Male,Information Technology,2024,71.3,78.8,7.73,1,Yes,3,3,Not Placed,,,0.0,,,
+ENG0648,Male,Civil Engineering,2024,87.16,82.9,6.89,0,Yes,5,0,Placed,NBCC,Civil Engineer,11.01,Pool Campus,January,Noida
+ENG0649,Female,Architecture,2024,98.44,98.0,8.56,0,Yes,1,0,Placed,DLF,Architect,8.37,On-Campus,January,Delhi NCR
+ENG0650,Male,Civil Engineering,2025,82.63,83.01,8.14,0,Yes,2,2,Placed,Infosys,Business Analyst,6.04,Off-Campus,January,Hyderabad
+ENG0651,Male,Information Technology,2025,81.51,90.15,7.6,1,No,2,1,Placed,Google,DevOps Engineer,24.86,On-Campus,August,Mumbai
+ENG0652,Female,Information Technology,2023,84.47,81.29,6.98,0,No,0,1,Placed,Tiger Analytics,Data Engineer,10.47,On-Campus,October,Ahmedabad
+ENG0653,Female,Information Technology,2025,98.26,96.97,8.37,1,Yes,3,2,Placed,Capgemini,Business Analyst,7.88,Pool Campus,January,Delhi NCR
+ENG0654,Male,Computer Science & Engineering,2024,73.81,78.9,7.15,1,Yes,1,1,Not Placed,,,0.0,,,
+ENG0655,Female,Chemical Engineering,2023,83.63,93.23,8.6,0,Yes,2,2,Placed,Capgemini,Data Analyst,7.52,Off-Campus,October,Chennai
+ENG0656,Male,Electronics & Communication Engineering,2025,75.6,64.76,5.77,2,Yes,0,1,Not Placed,,,0.0,,,
+ENG0657,Female,Information Technology,2023,77.62,75.01,6.39,2,No,1,1,Not Placed,,,0.0,,,
+ENG0658,Male,Civil Engineering,2024,81.6,87.14,7.87,0,Yes,1,1,Placed,DLF,Graduate Engineer Trainee,6.59,Off-Campus,December,Kolkata
+ENG0659,Male,Electronics & Communication Engineering,2021,92.78,98.0,9.18,0,Yes,0,0,Placed,Siemens,Graduate Engineer Trainee,11.67,Off-Campus,January,Pune
+ENG0660,Male,Computer Science & Engineering,2022,96.41,93.99,8.9,0,Yes,4,5,Placed,Amazon,Software Engineer,25.92,On-Campus,September,Bengaluru
+ENG0661,Male,Computer Science & Engineering,2025,85.59,82.14,7.95,0,Yes,1,6,Placed,Mu Sigma,Data Engineer,10.56,On-Campus,November,Bengaluru
+ENG0662,Female,Electrical Engineering,2023,78.99,84.54,7.51,1,Yes,1,1,Placed,Siemens,Electrical Engineer,7.56,Pool Campus,February,Ahmedabad
+ENG0663,Male,Civil Engineering,2023,99.0,98.0,8.46,1,Yes,4,2,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,11.42,Pool Campus,January,Coimbatore
+ENG0664,Male,Computer Science & Engineering,2022,78.58,76.42,6.76,0,Yes,1,3,Placed,Google,Software Engineer,31.64,On-Campus,September,Bengaluru
+ENG0665,Male,Architecture,2023,77.43,80.39,6.84,1,No,2,1,Not Placed,,,0.0,,,
+ENG0666,Female,Civil Engineering,2025,67.8,79.11,6.9,0,No,2,1,Not Placed,,,0.0,,,
+ENG0667,Female,Civil Engineering,2025,93.17,98.0,8.79,0,No,0,2,Placed,Tata Projects,Civil Engineer,7.16,Off-Campus,October,Ahmedabad
+ENG0668,Female,Information Technology,2021,89.75,92.51,9.17,0,Yes,7,3,Placed,Tiger Analytics,Business Analyst,11.47,On-Campus,December,Coimbatore
+ENG0669,Male,Computer Science & Engineering,2024,99.0,94.56,8.75,0,Yes,3,1,Placed,Fractal,Data Engineer,15.27,On-Campus,September,Kolkata
+ENG0670,Male,Civil Engineering,2023,70.88,72.78,7.17,1,Yes,3,4,Placed,NBCC,Graduate Engineer Trainee,12.13,On-Campus,January,Mumbai
+ENG0671,Male,Information Technology,2024,93.67,94.15,8.47,0,Yes,3,2,Placed,Adobe,Data Engineer,25.85,On-Campus,November,Delhi NCR
+ENG0672,Male,Electrical Engineering,2023,82.56,81.11,7.48,0,Yes,2,2,Not Placed,,,0.0,,,
+ENG0673,Female,Mechanical Engineering,2023,88.45,87.66,6.71,0,No,1,0,Not Placed,,,0.0,,,
+ENG0674,Female,Computer Science & Engineering,2023,68.82,64.21,5.89,1,No,3,0,Not Placed,,,0.0,,,
+ENG0675,Male,Civil Engineering,2024,93.74,98.0,8.53,0,No,2,3,Placed,Shapoorji Pallonji,Civil Engineer,11.87,Off-Campus,January,Ahmedabad
+ENG0676,Male,Architecture,2023,88.29,78.24,7.38,0,No,4,3,Placed,L&T,Graduate Engineer Trainee,10.23,On-Campus,December,Hyderabad
+ENG0677,Female,Mechanical Engineering,2023,81.69,78.24,7.05,0,Yes,3,3,Placed,Siemens,Graduate Engineer Trainee,12.05,Pool Campus,January,Mumbai
+ENG0678,Male,Electronics & Communication Engineering,2025,87.16,86.05,7.17,0,No,1,2,Not Placed,,,0.0,,,
+ENG0679,Male,Civil Engineering,2024,75.88,90.84,7.29,1,Yes,3,0,Placed,Shapoorji Pallonji,Civil Engineer,7.75,Off-Campus,December,Delhi NCR
+ENG0680,Male,Electronics & Communication Engineering,2023,77.36,75.06,6.5,0,No,4,1,Placed,TCS,Data Analyst,5.14,On-Campus,March,Delhi NCR
+ENG0681,Male,Mechanical Engineering,2025,78.29,74.06,7.43,0,Yes,2,2,Placed,Bosch,Graduate Engineer Trainee,8.06,Pool Campus,February,Hyderabad
+ENG0682,Male,Civil Engineering,2025,67.18,66.53,7.14,1,Yes,3,0,Not Placed,,,0.0,,,
+ENG0683,Male,Mechanical Engineering,2022,88.89,98.0,8.53,0,Yes,1,0,Placed,Tata Motors,Graduate Engineer Trainee,8.89,On-Campus,November,Pune
+ENG0684,Male,Information Technology,2024,91.53,68.96,6.36,1,No,5,0,Not Placed,,,0.0,,,
+ENG0685,Female,Computer Science & Engineering,2022,76.39,70.27,6.42,3,No,1,2,Not Placed,,,0.0,,,
+ENG0686,Male,Information Technology,2024,84.79,98.0,8.9,0,Yes,1,2,Placed,EXL,Business Analyst,12.39,On-Campus,August,Bengaluru
+ENG0687,Male,Electronics & Communication Engineering,2022,79.88,84.04,7.49,0,Yes,2,2,Placed,Tiger Analytics,Data Analyst,13.79,On-Campus,December,Coimbatore
+ENG0688,Female,Electronics & Communication Engineering,2024,84.63,75.73,7.97,0,Yes,3,1,Placed,Tiger Analytics,Business Analyst,13.16,On-Campus,September,Noida
+ENG0689,Female,Electrical Engineering,2022,76.98,77.44,6.71,0,No,0,3,Not Placed,,,0.0,,,
+ENG0690,Male,Electronics & Communication Engineering,2023,74.93,76.67,7.74,0,Yes,4,2,Placed,Microsoft,QA Engineer,25.67,On-Campus,January,Ahmedabad
+ENG0691,Male,Civil Engineering,2025,90.42,93.74,7.57,0,Yes,2,2,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,10.57,Pool Campus,August,Delhi NCR
+ENG0692,Female,Architecture,2023,81.49,93.99,7.74,0,Yes,2,1,Placed,L&T,Architect,10.0,On-Campus,March,Ahmedabad
+ENG0693,Male,Information Technology,2025,98.18,96.35,8.89,0,Yes,1,1,Not Placed,,,0.0,,,
+ENG0694,Male,Mechanical Engineering,2025,82.37,78.0,7.4,1,Yes,3,0,Placed,L&T,Mechanical Engineer,12.05,On-Campus,November,Delhi NCR
+ENG0695,Female,Mechanical Engineering,2025,74.59,81.45,5.23,1,No,1,1,Not Placed,,,0.0,,,
+ENG0696,Male,Electronics & Communication Engineering,2022,91.82,83.97,7.59,0,Yes,5,5,Placed,ZS Associates,Business Analyst,11.95,Off-Campus,August,Pune
+ENG0697,Female,Computer Science & Engineering,2025,87.05,78.05,7.68,1,Yes,5,3,Not Placed,,,0.0,,,
+ENG0698,Male,Civil Engineering,2021,87.81,73.54,5.94,1,No,0,0,Not Placed,,,0.0,,,
+ENG0699,Female,Chemical Engineering,2023,91.52,77.69,7.58,0,Yes,3,2,Placed,Reliance Industries,Graduate Engineer Trainee,9.74,Pool Campus,March,Ahmedabad
+ENG0700,Male,Mechanical Engineering,2025,76.78,71.31,5.15,3,No,1,1,Not Placed,,,0.0,,,
+ENG0701,Male,Architecture,2024,80.98,72.49,6.59,0,Yes,2,3,Placed,NBCC,Architect,12.16,Off-Campus,January,Bengaluru
+ENG0702,Male,Chemical Engineering,2023,80.63,82.66,7.41,0,No,3,0,Placed,Reliance Industries,Graduate Engineer Trainee,9.43,On-Campus,January,Noida
+ENG0703,Male,Information Technology,2023,71.67,65.36,5.0,2,No,0,0,Not Placed,,,0.0,,,
+ENG0704,Female,Electrical Engineering,2025,79.89,57.91,5.67,0,No,2,1,Placed,BHEL,Graduate Engineer Trainee,7.92,On-Campus,February,Coimbatore
+ENG0705,Male,Electronics & Communication Engineering,2024,92.69,82.21,7.94,1,Yes,1,1,Not Placed,,,0.0,,,
+ENG0706,Male,Chemical Engineering,2023,83.9,79.62,7.59,0,Yes,1,2,Placed,Asian Paints,Graduate Engineer Trainee,11.33,Off-Campus,January,Hyderabad
+ENG0707,Female,Computer Science & Engineering,2025,71.23,69.19,6.91,1,No,2,2,Not Placed,,,0.0,,,
+ENG0708,Female,Electronics & Communication Engineering,2022,69.55,82.8,7.4,1,No,0,1,Not Placed,,,0.0,,,
+ENG0709,Male,Civil Engineering,2022,95.32,87.19,6.79,0,Yes,1,0,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,5.87,On-Campus,January,Kolkata
+ENG0710,Male,Information Technology,2024,81.28,87.12,7.82,2,Yes,2,1,Not Placed,,,0.0,,,
+ENG0711,Female,Civil Engineering,2025,76.82,77.48,7.43,0,Yes,0,5,Not Placed,,,0.0,,,
+ENG0712,Female,Electronics & Communication Engineering,2022,79.81,79.56,7.46,0,Yes,0,3,Placed,TCS,Software Engineer,5.36,Pool Campus,November,Coimbatore
+ENG0713,Female,Chemical Engineering,2022,70.18,66.79,5.34,1,No,0,0,Not Placed,,,0.0,,,
+ENG0714,Female,Architecture,2021,93.38,89.63,6.93,0,No,0,0,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,7.07,Off-Campus,January,Kolkata
+ENG0715,Female,Information Technology,2025,78.86,73.79,6.39,1,No,1,1,Not Placed,,,0.0,,,
+ENG0716,Male,Mechanical Engineering,2022,92.94,90.89,6.93,1,No,1,0,Not Placed,,,0.0,,,
+ENG0717,Male,Information Technology,2023,82.41,80.16,6.64,0,No,2,2,Not Placed,,,0.0,,,
+ENG0718,Male,Electrical Engineering,2025,93.44,83.46,7.9,0,Yes,3,2,Placed,BHEL,Electrical Engineer,9.6,Off-Campus,March,Pune
+ENG0719,Female,Mechanical Engineering,2021,84.05,89.98,7.11,0,Yes,3,0,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,11.99,On-Campus,January,Ahmedabad
+ENG0720,Female,Civil Engineering,2024,88.83,89.61,7.94,0,Yes,4,2,Placed,Tata Projects,Graduate Engineer Trainee,6.45,On-Campus,December,Mumbai
+ENG0721,Male,Computer Science & Engineering,2023,87.75,82.68,7.27,1,Yes,4,0,Placed,Capgemini,QA Engineer,4.81,On-Campus,October,Bengaluru
+ENG0722,Male,Information Technology,2025,86.99,86.26,7.55,2,No,2,0,Not Placed,,,0.0,,,
+ENG0723,Male,Mechanical Engineering,2023,84.78,83.0,7.81,0,Yes,2,2,Placed,Tata Power,Graduate Engineer Trainee,8.07,On-Campus,January,Chennai
+ENG0724,Female,Electrical Engineering,2023,80.14,74.03,5.73,0,No,1,0,Not Placed,,,0.0,,,
+ENG0725,Male,Electronics & Communication Engineering,2022,97.32,93.49,7.95,1,Yes,5,2,Placed,PhonePe,Business Analyst,15.33,Off-Campus,August,Kolkata
+ENG0726,Male,Computer Science & Engineering,2024,74.74,71.71,6.96,0,No,0,1,Placed,Google,QA Engineer,29.59,On-Campus,August,Noida
+ENG0727,Male,Information Technology,2024,82.03,74.91,6.26,1,No,2,1,Not Placed,,,0.0,,,
+ENG0728,Male,Civil Engineering,2021,82.12,70.23,7.33,1,No,3,1,Not Placed,,,0.0,,,
+ENG0729,Male,Computer Science & Engineering,2023,85.22,81.4,8.26,1,Yes,2,1,Placed,Accenture,Business Analyst,8.56,On-Campus,November,Ahmedabad
+ENG0730,Male,Electronics & Communication Engineering,2025,78.56,82.89,6.33,0,No,0,0,Placed,Cognizant,Business Analyst,5.59,On-Campus,March,Bengaluru
+ENG0731,Male,Chemical Engineering,2021,84.52,78.53,7.17,1,Yes,1,2,Placed,Reliance Industries,Graduate Engineer Trainee,6.26,Pool Campus,November,Bengaluru
+ENG0732,Male,Computer Science & Engineering,2022,80.65,98.0,8.7,1,Yes,4,5,Placed,Capgemini,Data Analyst,6.46,On-Campus,October,Noida
+ENG0733,Male,Mechanical Engineering,2024,69.34,78.21,6.92,0,No,2,2,Placed,Ashok Leyland,Mechanical Engineer,11.54,On-Campus,October,Chennai
+ENG0734,Male,Information Technology,2023,82.08,90.69,7.96,0,Yes,5,1,Placed,Infosys,Software Engineer,6.73,Pool Campus,November,Bengaluru
+ENG0735,Male,Civil Engineering,2022,73.2,80.46,7.42,1,Yes,2,1,Placed,NBCC,Graduate Engineer Trainee,11.02,On-Campus,March,Chennai
+ENG0736,Female,Mechanical Engineering,2023,68.12,84.06,7.15,1,No,0,1,Not Placed,,,0.0,,,
+ENG0737,Male,Architecture,2022,83.09,76.81,6.87,1,Yes,1,2,Not Placed,,,0.0,,,
+ENG0738,Male,Computer Science & Engineering,2023,85.9,66.5,5.89,1,No,2,1,Not Placed,,,0.0,,,
+ENG0739,Male,Electronics & Communication Engineering,2024,86.21,81.54,7.65,0,Yes,1,1,Placed,PhonePe,Business Analyst,13.68,On-Campus,September,Mumbai
+ENG0740,Male,Mechanical Engineering,2024,86.54,88.81,7.43,2,Yes,7,2,Not Placed,,,0.0,,,
+ENG0741,Male,Information Technology,2021,66.54,70.97,5.82,1,No,1,0,Not Placed,,,0.0,,,
+ENG0742,Male,Information Technology,2025,71.11,75.26,7.39,0,No,1,0,Placed,Accenture,DevOps Engineer,6.73,On-Campus,December,Mumbai
+ENG0743,Female,Computer Science & Engineering,2022,97.79,98.0,8.05,0,No,0,1,Placed,Capgemini,Software Engineer,7.8,Off-Campus,August,Bengaluru
+ENG0744,Male,Chemical Engineering,2024,73.62,77.89,6.25,0,No,0,0,Not Placed,,,0.0,,,
+ENG0745,Male,Mechanical Engineering,2023,86.89,90.76,8.0,0,Yes,2,1,Placed,Tata Power,Graduate Engineer Trainee,10.41,On-Campus,October,Bengaluru
+ENG0746,Male,Electrical Engineering,2024,76.5,70.8,6.81,0,No,2,2,Placed,BHEL,Graduate Engineer Trainee,8.59,Off-Campus,January,Coimbatore
+ENG0747,Male,Mechanical Engineering,2022,82.64,74.31,7.78,0,Yes,0,2,Placed,Ashok Leyland,Graduate Engineer Trainee,8.82,On-Campus,October,Pune
+ENG0748,Male,Electronics & Communication Engineering,2022,76.93,89.0,7.81,2,Yes,0,1,Not Placed,,,0.0,,,
+ENG0749,Female,Electronics & Communication Engineering,2023,86.49,85.58,7.92,0,Yes,6,2,Placed,TCS,Software Engineer,4.72,On-Campus,January,Hyderabad
+ENG0750,Female,Electronics & Communication Engineering,2021,83.09,77.96,6.38,1,No,1,4,Not Placed,,,0.0,,,
+ENG0751,Male,Electrical Engineering,2022,78.41,74.46,6.25,1,No,1,2,Not Placed,,,0.0,,,
+ENG0752,Male,Computer Science & Engineering,2024,73.6,70.66,5.97,0,No,1,0,Placed,Capgemini,QA Engineer,4.09,Off-Campus,September,Noida
+ENG0753,Male,Architecture,2025,84.14,78.14,5.67,0,No,1,1,Not Placed,,,0.0,,,
+ENG0754,Male,Civil Engineering,2021,72.3,65.24,7.09,2,Yes,0,6,Placed,NBCC,Graduate Engineer Trainee,9.64,On-Campus,November,Mumbai
+ENG0755,Female,Information Technology,2025,85.42,73.56,6.95,2,Yes,2,6,Not Placed,,,0.0,,,
+ENG0756,Male,Electrical Engineering,2024,99.0,92.88,8.92,0,Yes,2,1,Placed,Siemens,Graduate Engineer Trainee,8.49,On-Campus,March,Ahmedabad
+ENG0757,Male,Computer Science & Engineering,2025,92.8,85.45,7.82,0,No,1,0,Placed,Wipro,QA Engineer,3.54,Pool Campus,February,Coimbatore
+ENG0758,Female,Chemical Engineering,2024,87.75,93.56,8.9,0,Yes,4,2,Placed,ONGC,Graduate Engineer Trainee,11.09,On-Campus,March,Delhi NCR
+ENG0759,Male,Architecture,2024,81.32,83.04,7.4,0,No,1,0,Not Placed,,,0.0,,,
+ENG0760,Male,Architecture,2023,66.49,71.72,6.03,2,No,3,5,Not Placed,,,0.0,,,
+ENG0761,Female,Information Technology,2024,71.42,68.36,7.2,0,Yes,8,1,Placed,Cognizant,Software Engineer,7.28,On-Campus,November,Kolkata
+ENG0762,Male,Computer Science & Engineering,2025,92.26,88.35,7.92,0,Yes,5,0,Placed,Mu Sigma,Data Analyst,10.0,Pool Campus,September,Pune
+ENG0763,Male,Computer Science & Engineering,2021,75.68,79.29,7.75,0,Yes,7,4,Placed,Fractal,Data Analyst,12.99,On-Campus,November,Delhi NCR
+ENG0764,Male,Computer Science & Engineering,2022,76.41,82.32,7.37,1,No,3,6,Placed,Microsoft,Software Engineer,28.58,Off-Campus,August,Ahmedabad
+ENG0765,Female,Computer Science & Engineering,2021,80.67,79.85,6.83,0,No,0,1,Not Placed,,,0.0,,,
+ENG0766,Male,Computer Science & Engineering,2025,73.5,82.68,6.99,1,No,0,0,Placed,TCS,Business Analyst,5.79,On-Campus,November,Hyderabad
+ENG0767,Male,Chemical Engineering,2023,72.19,74.2,6.27,1,No,1,0,Not Placed,,,0.0,,,
+ENG0768,Male,Computer Science & Engineering,2024,81.6,86.75,7.28,0,No,1,0,Placed,Cognizant,QA Engineer,5.21,On-Campus,October,Mumbai
+ENG0769,Male,Computer Science & Engineering,2025,74.87,72.72,7.78,0,Yes,3,1,Placed,Wipro,QA Engineer,5.09,On-Campus,December,Delhi NCR
+ENG0770,Female,Civil Engineering,2025,76.07,64.37,5.85,1,No,4,2,Not Placed,,,0.0,,,
+ENG0771,Male,Electrical Engineering,2022,75.75,78.69,7.67,0,Yes,2,1,Placed,Capgemini,Software Engineer,7.36,On-Campus,September,Delhi NCR
+ENG0772,Male,Mechanical Engineering,2024,86.18,89.71,7.09,2,No,0,1,Not Placed,,,0.0,,,
+ENG0773,Male,Electrical Engineering,2025,80.14,84.13,7.59,0,No,2,1,Placed,Schneider Electric,Electrical Engineer,7.32,On-Campus,January,Coimbatore
+ENG0774,Female,Architecture,2021,80.57,83.38,7.72,0,No,0,6,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,10.49,Pool Campus,March,Ahmedabad
+ENG0775,Male,Electrical Engineering,2024,86.78,82.64,7.45,0,Yes,3,3,Placed,L&T,Electrical Engineer,12.4,On-Campus,March,Noida
+ENG0776,Female,Electronics & Communication Engineering,2023,80.86,75.0,7.18,1,Yes,3,1,Placed,Google,Software Engineer,29.4,On-Campus,September,Chennai
+ENG0777,Male,Mechanical Engineering,2024,79.77,83.69,7.62,0,No,0,1,Not Placed,,,0.0,,,
+ENG0778,Male,Electronics & Communication Engineering,2023,85.76,87.31,8.53,0,Yes,1,1,Placed,EXL,Business Analyst,9.75,On-Campus,November,Chennai
+ENG0779,Female,Information Technology,2022,87.35,81.58,5.75,1,No,0,0,Not Placed,,,0.0,,,
+ENG0780,Female,Electronics & Communication Engineering,2021,80.82,88.38,8.04,0,Yes,3,2,Placed,Infosys,Data Analyst,5.74,On-Campus,March,Delhi NCR
+ENG0781,Male,Computer Science & Engineering,2021,82.64,75.8,7.76,0,Yes,2,4,Placed,TCS,Software Engineer,6.1,On-Campus,October,Mumbai
+ENG0782,Female,Civil Engineering,2021,75.75,72.72,5.63,1,No,0,0,Not Placed,,,0.0,,,
+ENG0783,Male,Information Technology,2024,75.11,87.79,7.25,1,Yes,1,4,Not Placed,,,0.0,,,
+ENG0784,Male,Computer Science & Engineering,2023,88.15,92.19,7.92,0,Yes,5,1,Placed,Amazon,Software Engineer,23.58,On-Campus,August,Kolkata
+ENG0785,Female,Information Technology,2022,85.56,81.66,7.19,2,No,0,1,Not Placed,,,0.0,,,
+ENG0786,Male,Civil Engineering,2024,85.64,86.24,7.44,0,Yes,1,2,Placed,NBCC,Graduate Engineer Trainee,9.42,On-Campus,January,Pune
+ENG0787,Female,Information Technology,2024,84.25,84.27,7.7,0,Yes,4,6,Placed,EXL,Business Analyst,11.53,Off-Campus,August,Bengaluru
+ENG0788,Male,Mechanical Engineering,2023,82.37,62.56,6.51,0,No,0,3,Placed,Mahindra & Mahindra,Mechanical Engineer,7.36,Pool Campus,November,Pune
+ENG0789,Female,Civil Engineering,2025,87.57,79.33,7.89,0,Yes,2,1,Placed,Capgemini,Software Engineer,7.95,On-Campus,September,Pune
+ENG0790,Male,Computer Science & Engineering,2023,89.48,86.75,7.48,2,Yes,3,2,Not Placed,,,0.0,,,
+ENG0791,Male,Mechanical Engineering,2025,89.29,84.47,8.46,0,Yes,3,3,Placed,Tata Power,Graduate Engineer Trainee,11.68,On-Campus,February,Delhi NCR
+ENG0792,Male,Information Technology,2021,81.19,82.63,7.61,0,Yes,1,5,Placed,Wipro,DevOps Engineer,7.43,Off-Campus,September,Kolkata
+ENG0793,Male,Computer Science & Engineering,2024,93.1,97.73,7.76,0,Yes,4,3,Placed,Infosys,Data Analyst,7.05,Off-Campus,November,Coimbatore
+ENG0794,Male,Mechanical Engineering,2025,83.83,80.62,6.85,0,No,0,0,Not Placed,,,0.0,,,
+ENG0795,Male,Architecture,2025,87.06,77.89,6.71,2,No,1,0,Not Placed,,,0.0,,,
+ENG0796,Male,Information Technology,2024,84.26,85.47,8.74,0,Yes,5,2,Placed,Cognizant,Data Analyst,5.33,On-Campus,October,Coimbatore
+ENG0797,Male,Electrical Engineering,2024,83.98,80.7,6.03,2,No,0,1,Not Placed,,,0.0,,,
+ENG0798,Male,Information Technology,2023,76.11,75.99,6.25,0,No,0,0,Not Placed,,,0.0,,,
+ENG0799,Female,Electrical Engineering,2024,87.61,83.67,7.43,1,Yes,2,2,Not Placed,,,0.0,,,
+ENG0800,Female,Electrical Engineering,2024,99.0,98.0,9.0,0,Yes,5,3,Placed,L&T,Graduate Engineer Trainee,12.07,On-Campus,February,Ahmedabad
+ENG0801,Female,Electrical Engineering,2025,79.0,63.57,5.53,0,No,2,1,Placed,Havells,Graduate Engineer Trainee,10.58,Off-Campus,December,Hyderabad
+ENG0802,Male,Electrical Engineering,2023,82.57,79.21,7.19,2,No,0,3,Not Placed,,,0.0,,,
+ENG0803,Female,Computer Science & Engineering,2021,78.43,78.8,6.5,0,No,1,0,Not Placed,,,0.0,,,
+ENG0804,Male,Mechanical Engineering,2024,78.1,73.1,7.51,1,Yes,4,2,Placed,Tata Motors,Mechanical Engineer,9.07,Off-Campus,February,Delhi NCR
+ENG0805,Male,Mechanical Engineering,2021,94.36,97.07,9.08,0,Yes,1,0,Placed,L&T,Graduate Engineer Trainee,7.67,Off-Campus,January,Pune
+ENG0806,Male,Mechanical Engineering,2022,76.62,83.15,6.41,1,No,1,1,Not Placed,,,0.0,,,
+ENG0807,Female,Computer Science & Engineering,2022,78.21,78.32,7.22,1,Yes,4,1,Placed,Atlassian,DevOps Engineer,20.83,On-Campus,September,Delhi NCR
+ENG0808,Male,Electronics & Communication Engineering,2024,69.3,70.08,6.33,1,Yes,5,3,Placed,Wipro,Business Analyst,6.68,Off-Campus,March,Ahmedabad
+ENG0809,Male,Electronics & Communication Engineering,2022,75.94,76.17,7.93,0,Yes,3,0,Placed,TCS,Business Analyst,5.84,Pool Campus,October,Coimbatore
+ENG0810,Female,Computer Science & Engineering,2022,68.33,70.52,6.49,0,No,1,1,Placed,Capgemini,Software Engineer,6.53,Off-Campus,December,Chennai
+ENG0811,Male,Information Technology,2021,87.05,84.74,8.35,1,Yes,0,1,Not Placed,,,0.0,,,
+ENG0812,Male,Electronics & Communication Engineering,2025,99.0,92.93,8.55,0,Yes,4,1,Placed,Accenture,Data Analyst,7.12,On-Campus,October,Ahmedabad
+ENG0813,Female,Mechanical Engineering,2024,79.07,81.07,7.77,0,Yes,6,1,Not Placed,,,0.0,,,
+ENG0814,Male,Information Technology,2021,68.67,76.77,6.03,2,No,1,0,Not Placed,,,0.0,,,
+ENG0815,Male,Civil Engineering,2021,89.2,78.29,6.62,1,No,0,1,Not Placed,,,0.0,,,
+ENG0816,Female,Electrical Engineering,2024,76.18,69.78,6.11,0,No,1,1,Not Placed,,,0.0,,,
+ENG0817,Female,Mechanical Engineering,2022,92.39,77.06,6.79,1,Yes,1,0,Placed,Tata Power,Graduate Engineer Trainee,12.22,Pool Campus,January,Pune
+ENG0818,Male,Electronics & Communication Engineering,2024,79.74,85.87,8.03,0,Yes,3,5,Placed,Accenture,QA Engineer,8.64,Pool Campus,March,Kolkata
+ENG0819,Female,Electronics & Communication Engineering,2023,76.95,79.46,7.24,0,No,0,1,Placed,Capgemini,Software Engineer,4.22,On-Campus,October,Kolkata
+ENG0820,Male,Electrical Engineering,2025,80.58,83.97,7.7,1,No,2,4,Not Placed,,,0.0,,,
+ENG0821,Male,Architecture,2022,88.06,76.04,7.63,1,Yes,4,3,Placed,Shapoorji Pallonji,Graduate Engineer Trainee,8.28,Off-Campus,February,Hyderabad
+ENG0822,Male,Electronics & Communication Engineering,2024,80.18,92.63,7.69,0,Yes,1,0,Placed,Schneider Electric,Mechanical Engineer,11.7,Off-Campus,January,Bengaluru
+ENG0823,Male,Electronics & Communication Engineering,2021,78.03,74.26,7.05,0,Yes,1,4,Placed,Cognizant,Data Analyst,7.39,Off-Campus,November,Coimbatore
+ENG0824,Female,Electrical Engineering,2025,80.41,81.48,6.76,1,No,1,1,Placed,BHEL,Graduate Engineer Trainee,5.92,Off-Campus,August,Delhi NCR
+ENG0825,Female,Mechanical Engineering,2025,71.83,79.85,6.67,0,Yes,2,0,Not Placed,,,0.0,,,
+ENG0826,Male,Computer Science & Engineering,2024,85.18,76.97,7.72,0,Yes,3,0,Placed,Adobe,Data Engineer,21.57,On-Campus,September,Chennai
+ENG0827,Male,Electronics & Communication Engineering,2023,67.71,66.96,5.24,3,No,0,0,Not Placed,,,0.0,,,
+ENG0828,Male,Electronics & Communication Engineering,2022,78.45,80.09,8.59,0,Yes,6,3,Placed,Adobe,Software Engineer,24.99,On-Campus,November,Pune
+ENG0829,Female,Architecture,2025,88.08,98.0,8.62,0,Yes,1,2,Placed,L&T,Architect,8.0,Pool Campus,November,Noida
+ENG0830,Male,Electronics & Communication Engineering,2024,84.42,85.43,7.21,1,No,2,1,Not Placed,,,0.0,,,
+ENG0831,Male,Electronics & Communication Engineering,2022,86.72,96.29,9.73,0,Yes,7,2,Placed,Fractal,Business Analyst,9.87,Off-Campus,September,Bengaluru
+ENG0832,Male,Chemical Engineering,2023,81.48,89.55,7.6,0,Yes,3,2,Placed,Indian Oil,Graduate Engineer Trainee,5.76,On-Campus,August,Pune
+ENG0833,Male,Electronics & Communication Engineering,2023,91.36,91.09,7.83,0,Yes,1,2,Placed,Accenture,QA Engineer,6.54,On-Campus,November,Bengaluru
+ENG0834,Female,Computer Science & Engineering,2025,89.4,80.12,7.63,1,Yes,2,2,Placed,Infosys,QA Engineer,5.87,On-Campus,December,Pune
+ENG0835,Female,Computer Science & Engineering,2024,85.57,91.6,8.76,0,No,1,3,Placed,TCS,QA Engineer,3.96,On-Campus,September,Ahmedabad
+ENG0836,Male,Computer Science & Engineering,2024,89.42,76.58,7.51,0,Yes,4,0,Placed,Infosys,Software Engineer,7.09,Pool Campus,November,Mumbai
+ENG0837,Female,Computer Science & Engineering,2024,88.0,97.21,8.02,0,Yes,2,2,Placed,Cognizant,DevOps Engineer,5.95,On-Campus,December,Pune
+ENG0838,Female,Electronics & Communication Engineering,2022,78.48,80.26,7.93,0,Yes,1,3,Placed,Accenture,Business Analyst,8.08,Off-Campus,October,Bengaluru
+ENG0839,Male,Mechanical Engineering,2023,71.25,54.89,6.34,0,No,1,3,Not Placed,,,0.0,,,
+ENG0840,Male,Mechanical Engineering,2021,85.36,81.64,7.29,1,No,1,2,Not Placed,,,0.0,,,
+ENG0841,Male,Computer Science & Engineering,2024,86.37,89.35,8.28,0,Yes,1,3,Placed,Adobe,DevOps Engineer,20.71,On-Campus,September,Kolkata
+ENG0842,Female,Electrical Engineering,2023,90.72,86.38,8.39,0,No,5,3,Placed,BHEL,Electrical Engineer,7.87,On-Campus,February,Bengaluru
+ENG0843,Male,Computer Science & Engineering,2023,74.51,80.89,7.77,2,Yes,4,3,Not Placed,,,0.0,,,
+ENG0844,Male,Chemical Engineering,2022,74.75,70.11,6.25,0,No,1,1,Placed,PhonePe,Data Analyst,11.83,Off-Campus,January,Ahmedabad
+ENG0845,Male,Computer Science & Engineering,2022,85.68,75.12,6.88,0,Yes,5,2,Placed,Infosys,QA Engineer,6.94,Pool Campus,August,Ahmedabad
+ENG0846,Female,Electrical Engineering,2024,81.43,80.57,7.39,0,Yes,0,2,Placed,Siemens,Graduate Engineer Trainee,10.26,Pool Campus,January,Chennai
+ENG0847,Male,Information Technology,2022,66.91,70.41,6.76,3,No,0,1,Not Placed,,,0.0,,,
+ENG0848,Female,Electrical Engineering,2021,85.0,81.31,7.56,2,No,0,0,Not Placed,,,0.0,,,
+ENG0849,Male,Electronics & Communication Engineering,2024,67.18,78.98,6.41,1,No,0,0,Not Placed,,,0.0,,,
+ENG0850,Female,Mechanical Engineering,2023,74.44,69.88,5.51,1,No,1,1,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,10.59,Off-Campus,November,Coimbatore
+ENG0851,Male,Information Technology,2023,92.81,91.8,8.35,0,No,0,0,Placed,Mu Sigma,Data Analyst,11.57,On-Campus,August,Noida
+ENG0852,Male,Architecture,2023,96.6,92.93,7.98,3,No,1,1,Not Placed,,,0.0,,,
+ENG0853,Female,Electronics & Communication Engineering,2025,72.27,63.31,6.38,0,Yes,1,3,Not Placed,,,0.0,,,
+ENG0854,Female,Mechanical Engineering,2022,79.36,70.29,6.1,0,Yes,5,4,Placed,Siemens,Graduate Engineer Trainee,11.38,Pool Campus,March,Coimbatore
+ENG0855,Male,Civil Engineering,2024,82.34,81.84,6.69,3,No,2,0,Not Placed,,,0.0,,,
+ENG0856,Male,Chemical Engineering,2025,96.25,98.0,7.66,0,Yes,1,3,Not Placed,,,0.0,,,
+ENG0857,Female,Information Technology,2024,78.06,82.6,7.78,0,Yes,2,6,Placed,Capgemini,Data Analyst,5.47,Pool Campus,January,Pune
+ENG0858,Female,Information Technology,2023,78.18,66.56,6.97,0,No,0,0,Not Placed,,,0.0,,,
+ENG0859,Male,Information Technology,2024,94.39,69.02,6.27,2,Yes,3,2,Not Placed,,,0.0,,,
+ENG0860,Male,Information Technology,2023,79.0,84.38,7.43,0,No,1,1,Not Placed,,,0.0,,,
+ENG0861,Female,Electrical Engineering,2023,87.78,85.16,7.82,1,Yes,6,0,Not Placed,,,0.0,,,
+ENG0862,Female,Chemical Engineering,2023,70.18,80.63,6.81,2,No,0,1,Not Placed,,,0.0,,,
+ENG0863,Female,Chemical Engineering,2022,80.63,74.31,7.62,2,Yes,0,1,Not Placed,,,0.0,,,
+ENG0864,Male,Electronics & Communication Engineering,2021,68.72,73.99,7.65,0,Yes,5,1,Placed,Siemens,Civil Engineer,9.83,Off-Campus,February,Ahmedabad
+ENG0865,Male,Electrical Engineering,2023,73.56,81.09,7.49,0,Yes,0,3,Placed,Tata Power,Electrical Engineer,8.52,Off-Campus,February,Kolkata
+ENG0866,Female,Civil Engineering,2021,88.71,83.4,6.54,0,No,3,0,Placed,Cognizant,DevOps Engineer,5.67,Pool Campus,October,Bengaluru
+ENG0867,Female,Architecture,2023,81.6,78.22,7.77,0,Yes,4,4,Placed,NBCC,Graduate Engineer Trainee,8.02,On-Campus,October,Chennai
+ENG0868,Female,Computer Science & Engineering,2024,79.45,79.76,6.79,1,No,3,0,Placed,Infosys,QA Engineer,4.94,On-Campus,November,Mumbai
+ENG0869,Male,Electronics & Communication Engineering,2025,76.01,80.81,6.99,0,Yes,2,1,Not Placed,,,0.0,,,
+ENG0870,Male,Civil Engineering,2021,80.23,80.08,7.47,0,Yes,1,4,Placed,DLF,Civil Engineer,10.49,On-Campus,January,Ahmedabad
+ENG0871,Female,Information Technology,2024,84.41,90.12,8.64,0,Yes,1,3,Placed,EXL,Data Engineer,12.92,Pool Campus,August,Kolkata
+ENG0872,Male,Electronics & Communication Engineering,2023,89.86,84.16,7.59,2,Yes,0,1,Not Placed,,,0.0,,,
+ENG0873,Female,Chemical Engineering,2021,61.0,56.45,5.14,0,No,2,1,Placed,ONGC,Graduate Engineer Trainee,8.15,On-Campus,January,Delhi NCR
+ENG0874,Male,Chemical Engineering,2022,75.35,90.35,7.89,1,Yes,2,1,Not Placed,,,0.0,,,
+ENG0875,Female,Architecture,2021,83.27,78.22,6.72,0,No,1,1,Placed,NBCC,Architect,7.46,Pool Campus,January,Kolkata
+ENG0876,Female,Civil Engineering,2022,81.21,76.93,6.98,3,No,0,0,Not Placed,,,0.0,,,
+ENG0877,Male,Information Technology,2022,85.23,83.46,6.85,2,No,1,0,Not Placed,,,0.0,,,
+ENG0878,Male,Information Technology,2023,84.14,83.58,8.42,0,Yes,2,2,Placed,Capgemini,QA Engineer,6.67,Off-Campus,September,Ahmedabad
+ENG0879,Male,Electrical Engineering,2023,79.56,76.96,7.01,1,Yes,2,1,Placed,Schneider Electric,Graduate Engineer Trainee,7.97,On-Campus,March,Pune
+ENG0880,Male,Electrical Engineering,2021,77.79,78.22,7.33,0,No,1,1,Placed,ABB,Electrical Engineer,9.6,On-Campus,March,Chennai
+ENG0881,Male,Electronics & Communication Engineering,2022,80.04,79.75,7.19,0,Yes,6,1,Placed,Microsoft,QA Engineer,22.64,On-Campus,August,Mumbai
+ENG0882,Male,Electrical Engineering,2021,91.19,89.62,8.32,0,Yes,4,3,Placed,Accenture,Data Analyst,8.59,Off-Campus,January,Mumbai
+ENG0883,Female,Electronics & Communication Engineering,2023,76.14,60.61,5.6,0,No,3,2,Not Placed,,,0.0,,,
+ENG0884,Male,Mechanical Engineering,2022,81.5,94.29,8.16,0,Yes,3,1,Placed,Tata Motors,Mechanical Engineer,9.58,On-Campus,January,Delhi NCR
+ENG0885,Male,Information Technology,2023,83.47,81.57,7.16,1,No,3,0,Not Placed,,,0.0,,,
+ENG0886,Male,Information Technology,2022,94.48,94.93,8.52,0,Yes,1,2,Not Placed,,,0.0,,,
+ENG0887,Male,Computer Science & Engineering,2021,79.6,70.05,6.4,0,Yes,1,0,Not Placed,,,0.0,,,
+ENG0888,Male,Computer Science & Engineering,2025,89.67,83.96,7.26,0,No,3,0,Placed,Cognizant,Software Engineer,4.38,On-Campus,January,Pune
+ENG0889,Male,Civil Engineering,2021,91.86,84.19,6.54,1,No,0,0,Not Placed,,,0.0,,,
+ENG0890,Female,Electronics & Communication Engineering,2021,81.49,91.41,8.91,0,Yes,5,0,Placed,Amazon,QA Engineer,21.42,Off-Campus,March,Bengaluru
+ENG0891,Male,Information Technology,2021,80.31,76.13,7.18,1,No,2,1,Not Placed,,,0.0,,,
+ENG0892,Female,Mechanical Engineering,2025,79.37,84.83,6.78,0,No,1,0,Not Placed,,,0.0,,,
+ENG0893,Male,Electrical Engineering,2024,79.95,75.41,7.49,1,Yes,4,4,Placed,Havells,Electrical Engineer,8.95,On-Campus,December,Chennai
+ENG0894,Male,Computer Science & Engineering,2024,88.83,83.46,7.18,1,No,2,2,Not Placed,,,0.0,,,
+ENG0895,Female,Information Technology,2025,83.85,81.17,7.52,1,Yes,2,1,Placed,Cognizant,Data Analyst,5.58,Off-Campus,November,Noida
+ENG0896,Female,Computer Science & Engineering,2021,83.88,91.9,7.74,1,No,1,1,Not Placed,,,0.0,,,
+ENG0897,Male,Mechanical Engineering,2025,73.0,61.52,5.12,0,No,2,0,Not Placed,,,0.0,,,
+ENG0898,Male,Information Technology,2022,74.26,66.49,5.62,1,No,0,2,Not Placed,,,0.0,,,
+ENG0899,Male,Computer Science & Engineering,2024,99.0,80.62,7.4,1,Yes,1,4,Not Placed,,,0.0,,,
+ENG0900,Male,Computer Science & Engineering,2023,80.58,72.82,7.08,0,No,3,0,Placed,TCS,Software Engineer,4.61,Off-Campus,March,Noida
+ENG0901,Male,Electrical Engineering,2023,75.8,71.17,5.78,0,No,1,1,Not Placed,,,0.0,,,
+ENG0902,Male,Computer Science & Engineering,2025,93.45,78.79,7.16,1,No,3,1,Placed,Google,Data Engineer,25.5,On-Campus,December,Coimbatore
+ENG0903,Male,Civil Engineering,2021,84.25,78.05,6.16,0,No,0,0,Placed,DLF,Graduate Engineer Trainee,5.42,On-Campus,February,Delhi NCR
+ENG0904,Male,Computer Science & Engineering,2025,86.63,70.87,7.06,0,Yes,4,0,Placed,Cognizant,Software Engineer,6.83,Pool Campus,January,Bengaluru
+ENG0905,Female,Electrical Engineering,2023,80.9,73.55,6.19,1,No,1,2,Not Placed,,,0.0,,,
+ENG0906,Female,Electronics & Communication Engineering,2024,79.45,87.99,8.24,0,Yes,3,0,Placed,Accenture,Software Engineer,5.31,On-Campus,November,Coimbatore
+ENG0907,Male,Electronics & Communication Engineering,2025,80.64,83.31,6.75,1,No,1,0,Not Placed,,,0.0,,,
+ENG0908,Male,Computer Science & Engineering,2021,70.94,74.52,7.15,1,No,1,0,Not Placed,,,0.0,,,
+ENG0909,Male,Civil Engineering,2025,81.3,73.95,6.34,2,Yes,5,2,Not Placed,,,0.0,,,
+ENG0910,Male,Architecture,2024,84.37,72.52,6.9,0,No,2,1,Placed,DLF,Graduate Engineer Trainee,6.77,On-Campus,December,Kolkata
+ENG0911,Female,Computer Science & Engineering,2024,96.8,84.63,7.72,0,Yes,1,1,Placed,TCS,DevOps Engineer,4.78,On-Campus,February,Mumbai
+ENG0912,Female,Computer Science & Engineering,2021,82.69,81.71,7.85,1,Yes,1,2,Placed,Wipro,Data Analyst,4.86,Off-Campus,December,Hyderabad
+ENG0913,Female,Architecture,2023,63.33,73.57,7.27,0,Yes,2,2,Placed,NBCC,Graduate Engineer Trainee,9.61,Pool Campus,March,Coimbatore
+ENG0914,Female,Electrical Engineering,2024,81.25,87.25,8.04,1,Yes,4,4,Placed,Tata Power,Electrical Engineer,6.28,On-Campus,January,Mumbai
+ENG0915,Female,Computer Science & Engineering,2023,99.0,98.0,8.22,0,Yes,3,1,Placed,Capgemini,QA Engineer,5.27,On-Campus,February,Delhi NCR
+ENG0916,Female,Computer Science & Engineering,2022,88.93,81.54,6.48,0,Yes,5,3,Placed,Accenture,Software Engineer,7.76,On-Campus,August,Delhi NCR
+ENG0917,Male,Mechanical Engineering,2022,75.51,76.81,7.38,1,No,0,1,Not Placed,,,0.0,,,
+ENG0918,Male,Mechanical Engineering,2025,86.73,82.8,8.28,1,Yes,2,2,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,5.8,Off-Campus,January,Delhi NCR
+ENG0919,Male,Electrical Engineering,2021,76.06,75.64,8.01,0,Yes,2,1,Placed,ZS Associates,Data Analyst,14.08,On-Campus,August,Mumbai
+ENG0920,Male,Chemical Engineering,2024,71.17,87.64,8.03,1,Yes,6,1,Placed,Reliance Industries,Graduate Engineer Trainee,6.8,Pool Campus,March,Ahmedabad
+ENG0921,Male,Electronics & Communication Engineering,2025,79.21,67.08,5.14,2,No,1,1,Not Placed,,,0.0,,,
+ENG0922,Female,Information Technology,2021,82.73,80.41,6.69,1,Yes,7,3,Placed,Cognizant,DevOps Engineer,7.18,On-Campus,March,Pune
+ENG0923,Male,Electronics & Communication Engineering,2022,67.02,78.75,6.98,0,No,1,2,Placed,Capgemini,Software Engineer,5.37,On-Campus,October,Coimbatore
+ENG0924,Male,Information Technology,2024,72.81,64.34,6.04,2,No,1,2,Not Placed,,,0.0,,,
+ENG0925,Male,Information Technology,2021,82.08,77.06,7.54,0,Yes,1,3,Not Placed,,,0.0,,,
+ENG0926,Male,Computer Science & Engineering,2024,78.73,75.35,8.14,1,Yes,1,2,Placed,Amazon,Data Engineer,25.9,On-Campus,August,Coimbatore
+ENG0927,Male,Information Technology,2024,85.16,82.31,8.11,0,Yes,6,2,Placed,Fractal,Business Analyst,15.7,On-Campus,August,Noida
+ENG0928,Female,Mechanical Engineering,2024,72.28,63.04,6.49,0,Yes,3,1,Not Placed,,,0.0,,,
+ENG0929,Male,Computer Science & Engineering,2023,87.71,89.95,8.0,0,Yes,0,0,Placed,Accenture,Data Analyst,5.5,On-Campus,November,Coimbatore
+ENG0930,Female,Electronics & Communication Engineering,2024,72.53,79.06,7.19,0,Yes,3,3,Placed,Intel,Electrical Engineer,9.73,On-Campus,December,Kolkata
+ENG0931,Male,Electrical Engineering,2024,95.14,94.92,8.52,1,Yes,2,4,Placed,L&T,Graduate Engineer Trainee,7.23,Off-Campus,October,Bengaluru
+ENG0932,Male,Electrical Engineering,2022,68.27,65.11,5.73,1,No,0,1,Not Placed,,,0.0,,,
+ENG0933,Male,Mechanical Engineering,2024,73.26,75.55,6.29,2,No,1,0,Not Placed,,,0.0,,,
+ENG0934,Female,Civil Engineering,2025,85.34,77.71,6.69,1,Yes,2,2,Not Placed,,,0.0,,,
+ENG0935,Female,Mechanical Engineering,2024,95.31,89.16,8.5,0,Yes,6,2,Placed,Ashok Leyland,Mechanical Engineer,7.63,On-Campus,January,Pune
+ENG0936,Male,Computer Science & Engineering,2023,84.52,98.0,8.2,0,Yes,3,6,Placed,Infosys,Business Analyst,7.1,On-Campus,February,Mumbai
+ENG0937,Female,Electronics & Communication Engineering,2022,86.5,85.55,8.88,0,Yes,1,3,Placed,Amazon,Software Engineer,30.01,Off-Campus,September,Noida
+ENG0938,Male,Electrical Engineering,2021,82.14,73.29,6.74,0,Yes,3,0,Placed,Tata Power,Electrical Engineer,6.66,Off-Campus,February,Kolkata
+ENG0939,Female,Information Technology,2022,73.79,76.6,8.45,0,Yes,3,4,Placed,Capgemini,Data Analyst,7.66,On-Campus,November,Bengaluru
+ENG0940,Male,Computer Science & Engineering,2021,78.08,69.1,6.4,1,No,1,1,Placed,Microsoft,Data Engineer,26.16,On-Campus,October,Hyderabad
+ENG0941,Male,Information Technology,2025,72.3,65.84,6.12,1,Yes,5,1,Not Placed,,,0.0,,,
+ENG0942,Female,Electronics & Communication Engineering,2022,71.77,66.54,5.21,0,No,2,0,Not Placed,,,0.0,,,
+ENG0943,Male,Electronics & Communication Engineering,2025,85.21,80.8,8.01,1,Yes,4,2,Placed,Adobe,Software Engineer,22.08,Pool Campus,August,Hyderabad
+ENG0944,Male,Computer Science & Engineering,2022,73.01,81.32,6.75,0,No,1,0,Not Placed,,,0.0,,,
+ENG0945,Male,Civil Engineering,2022,84.56,87.47,7.27,0,No,0,1,Placed,NBCC,Graduate Engineer Trainee,6.17,On-Campus,December,Bengaluru
+ENG0946,Male,Architecture,2023,71.59,77.35,7.57,1,Yes,5,1,Placed,DLF,Architect,8.79,On-Campus,November,Mumbai
+ENG0947,Female,Computer Science & Engineering,2022,84.37,75.59,7.43,0,Yes,2,3,Placed,PhonePe,Business Analyst,11.14,On-Campus,September,Mumbai
+ENG0948,Female,Architecture,2024,78.09,74.78,6.72,1,No,1,3,Placed,L&T,Architect,6.47,On-Campus,March,Pune
+ENG0949,Female,Computer Science & Engineering,2025,93.25,91.84,7.81,2,Yes,3,3,Not Placed,,,0.0,,,
+ENG0950,Male,Architecture,2025,84.59,79.04,7.37,1,No,3,3,Placed,NBCC,Graduate Engineer Trainee,11.51,On-Campus,January,Noida
+ENG0951,Male,Chemical Engineering,2022,91.89,86.97,7.54,0,Yes,0,2,Not Placed,,,0.0,,,
+ENG0952,Male,Computer Science & Engineering,2024,75.95,80.06,7.47,0,No,1,2,Not Placed,,,0.0,,,
+ENG0953,Male,Mechanical Engineering,2021,82.45,79.4,7.9,0,Yes,5,2,Placed,Bosch,Graduate Engineer Trainee,8.67,On-Campus,November,Pune
+ENG0954,Male,Chemical Engineering,2025,74.15,77.2,7.1,0,Yes,2,1,Placed,BASF,Graduate Engineer Trainee,10.52,On-Campus,February,Ahmedabad
+ENG0955,Female,Architecture,2023,78.69,90.17,8.46,0,Yes,3,4,Placed,L&T,Graduate Engineer Trainee,6.41,Off-Campus,March,Hyderabad
+ENG0956,Female,Chemical Engineering,2023,79.9,78.72,7.49,0,Yes,1,3,Placed,Indian Oil,Graduate Engineer Trainee,8.55,Off-Campus,January,Pune
+ENG0957,Female,Electrical Engineering,2022,76.19,85.4,7.82,0,Yes,2,1,Placed,Capgemini,Software Engineer,6.02,Off-Campus,September,Pune
+ENG0958,Male,Computer Science & Engineering,2021,72.28,78.12,7.06,0,No,2,5,Placed,Microsoft,QA Engineer,28.43,Pool Campus,October,Chennai
+ENG0959,Male,Civil Engineering,2022,70.69,62.75,6.57,1,Yes,5,4,Not Placed,,,0.0,,,
+ENG0960,Male,Electrical Engineering,2025,63.28,59.75,6.13,0,Yes,2,3,Not Placed,,,0.0,,,
+ENG0961,Male,Electrical Engineering,2024,73.55,69.33,7.27,0,Yes,4,4,Placed,Havells,Graduate Engineer Trainee,8.13,On-Campus,December,Noida
+ENG0962,Male,Electronics & Communication Engineering,2025,87.02,79.28,7.11,0,No,0,1,Placed,Accenture,Data Analyst,4.2,Off-Campus,October,Bengaluru
+ENG0963,Male,Electrical Engineering,2021,69.21,71.28,6.16,1,No,1,1,Not Placed,,,0.0,,,
+ENG0964,Male,Computer Science & Engineering,2024,71.06,77.59,7.3,0,Yes,4,3,Placed,EXL,Data Analyst,11.95,Off-Campus,September,Ahmedabad
+ENG0965,Female,Mechanical Engineering,2022,96.33,98.0,8.83,0,Yes,1,2,Placed,L&T,Graduate Engineer Trainee,8.34,On-Campus,January,Ahmedabad
+ENG0966,Male,Computer Science & Engineering,2023,76.91,79.84,7.01,0,Yes,2,2,Placed,Microsoft,Software Engineer,26.4,On-Campus,September,Coimbatore
+ENG0967,Female,Mechanical Engineering,2022,84.57,80.31,6.9,0,No,3,2,Placed,Capgemini,DevOps Engineer,5.04,On-Campus,March,Hyderabad
+ENG0968,Male,Civil Engineering,2022,87.14,70.78,6.16,1,No,0,0,Not Placed,,,0.0,,,
+ENG0969,Male,Electronics & Communication Engineering,2024,87.3,85.97,7.95,1,Yes,3,1,Placed,Google,Software Engineer,29.01,Off-Campus,August,Ahmedabad
+ENG0970,Male,Electronics & Communication Engineering,2022,69.82,72.55,6.31,0,No,3,1,Not Placed,,,0.0,,,
+ENG0971,Male,Information Technology,2023,80.15,81.39,7.51,0,No,2,1,Placed,Accenture,Software Engineer,5.8,On-Campus,March,Ahmedabad
+ENG0972,Male,Chemical Engineering,2024,69.05,86.53,8.14,0,Yes,3,6,Placed,ONGC,Graduate Engineer Trainee,6.18,On-Campus,November,Bengaluru
+ENG0973,Male,Mechanical Engineering,2021,99.0,98.0,8.66,0,Yes,2,2,Placed,Mahindra & Mahindra,Graduate Engineer Trainee,6.83,On-Campus,November,Pune
+ENG0974,Female,Information Technology,2025,69.24,77.43,6.66,2,Yes,2,0,Not Placed,,,0.0,,,
+ENG0975,Male,Computer Science & Engineering,2023,73.62,68.48,5.97,0,No,1,0,Not Placed,,,0.0,,,
+ENG0976,Male,Computer Science & Engineering,2025,73.68,71.67,6.92,1,Yes,6,2,Placed,Microsoft,DevOps Engineer,27.11,On-Campus,September,Pune
+ENG0977,Male,Electronics & Communication Engineering,2024,70.03,71.86,8.02,0,Yes,7,2,Not Placed,,,0.0,,,
+ENG0978,Male,Chemical Engineering,2024,92.82,84.19,8.44,0,Yes,4,3,Placed,Asian Paints,Graduate Engineer Trainee,12.13,On-Campus,February,Bengaluru
+ENG0979,Male,Mechanical Engineering,2024,99.0,97.75,8.37,0,Yes,3,1,Placed,Tata Motors,Graduate Engineer Trainee,6.15,On-Campus,March,Hyderabad
+ENG0980,Male,Computer Science & Engineering,2025,78.19,81.14,7.77,0,Yes,3,3,Placed,Google,Data Engineer,23.65,Off-Campus,September,Pune
+ENG0981,Female,Civil Engineering,2024,71.44,65.96,6.84,0,No,1,1,Placed,Tata Projects,Graduate Engineer Trainee,10.02,Off-Campus,October,Kolkata
+ENG0982,Female,Electronics & Communication Engineering,2022,64.1,76.46,6.6,0,No,6,2,Placed,TCS,QA Engineer,7.09,On-Campus,November,Bengaluru
+ENG0983,Female,Civil Engineering,2021,80.05,80.75,7.09,1,No,1,1,Placed,Tata Projects,Graduate Engineer Trainee,7.75,Pool Campus,January,Hyderabad
+ENG0984,Male,Information Technology,2024,79.47,67.5,6.22,1,No,2,0,Not Placed,,,0.0,,,
+ENG0985,Male,Electrical Engineering,2021,76.79,77.23,6.9,2,No,3,2,Not Placed,,,0.0,,,
+ENG0986,Female,Architecture,2022,83.77,84.8,7.62,0,Yes,1,3,Placed,L&T,Architect,11.6,On-Campus,October,Hyderabad
+ENG0987,Male,Information Technology,2021,85.16,90.68,7.38,1,Yes,4,0,Placed,PhonePe,Data Analyst,17.44,Pool Campus,November,Noida
+ENG0988,Male,Mechanical Engineering,2023,84.58,81.08,7.65,0,No,1,0,Placed,Siemens,Graduate Engineer Trainee,10.31,On-Campus,March,Chennai
+ENG0989,Male,Chemical Engineering,2022,79.47,85.4,7.85,0,Yes,3,4,Placed,Indian Oil,Graduate Engineer Trainee,7.78,On-Campus,January,Noida
+ENG0990,Female,Computer Science & Engineering,2024,73.19,76.2,8.06,0,Yes,2,2,Placed,Capgemini,Data Analyst,8.1,Off-Campus,October,Ahmedabad
+ENG0991,Female,Computer Science & Engineering,2024,87.33,76.29,6.74,0,No,1,2,Not Placed,,,0.0,,,
+ENG0992,Female,Mechanical Engineering,2025,82.1,71.67,6.0,2,No,1,1,Not Placed,,,0.0,,,
+ENG0993,Female,Information Technology,2022,89.11,94.69,7.48,0,Yes,1,2,Not Placed,,,0.0,,,
+ENG0994,Male,Computer Science & Engineering,2023,88.32,94.61,7.73,1,No,2,2,Placed,TCS,Business Analyst,5.07,On-Campus,February,Hyderabad
+ENG0995,Female,Electronics & Communication Engineering,2024,70.63,75.23,7.16,0,Yes,4,2,Placed,Nokia,Civil Engineer,12.02,On-Campus,October,Bengaluru
+ENG0996,Male,Mechanical Engineering,2023,70.53,83.36,7.43,0,Yes,1,0,Placed,Siemens,Mechanical Engineer,11.5,On-Campus,March,Coimbatore
+ENG0997,Female,Information Technology,2024,75.96,84.36,7.65,0,No,3,0,Placed,Wipro,QA Engineer,4.86,On-Campus,October,Ahmedabad
+ENG0998,Male,Information Technology,2022,73.55,79.95,6.93,0,No,1,2,Placed,EXL,Data Engineer,12.96,Off-Campus,October,Hyderabad
+ENG0999,Female,Civil Engineering,2025,88.04,79.65,7.14,0,Yes,2,0,Placed,Tata Projects,Civil Engineer,5.72,On-Campus,January,Chennai
+ENG1000,Male,Electronics & Communication Engineering,2021,84.81,95.73,8.26,0,Yes,0,0,Placed,Deloitte,Business Analyst,9.52,Off-Campus,August,Delhi NCR
