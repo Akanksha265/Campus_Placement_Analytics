@@ -176,9 +176,10 @@ Designed an interactive dashboard featuring:
 
 ---
 
+
 # 📷 Dashboard Preview
 
-![Campus Placement Analytics Dashboard](Power Bi/Campus_Placement_Analytics_Dashboard.png)
+![Campus Placement Analytics Dashboard](Power%20Bi/Campus_Placement_Analytics_Dashboard.png)
 
 # 📌 Key Insights
 
