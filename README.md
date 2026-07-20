@@ -178,12 +178,7 @@ Designed an interactive dashboard featuring:
 
 # 📷 Dashboard Preview
 
-> **Add your dashboard screenshot here**
-
-```
-Images/Campus_Placement_Analytics_Dashboard.png
-```
-
+![Campus Placement Analytics Dashboard](Power Bi/Campus_Placement_Analytics_Dashboard.png)
 
 # 📌 Key Insights
 
@@ -222,7 +217,7 @@ Images/Campus_Placement_Analytics_Dashboard.png
 
 # 👩‍💻 Author
 
-**Akansha**
+**Akanksha Kumari**
 
 Electrical Engineering Undergraduate | NIT Patna
 
